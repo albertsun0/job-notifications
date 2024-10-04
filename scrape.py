@@ -1,1 +1,1 @@
-print("test message")
+print('FOO="test message"')
