@@ -19,7 +19,7 @@ jobs:
           python-version: "3.10"
 
       - name: run test
-        run: python scrape.py >> $GITHUB_OUTPUT
+        run: var=$(python scrape.py) && echo "FOO=$var" >> $GITHUB_OUTPUT
 
       - name: print output
         run: echo "${{ env.FOO }}"
