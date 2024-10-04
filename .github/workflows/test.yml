@@ -22,4 +22,10 @@ jobs:
         run: var=$(python scrape.py) && echo "FOO=$var" >> $GITHUB_OUTPUT
 
       - name: print output
-        run: echo "${{ env.FOO }}"
+        run: echo "??? $FOO"
+
+      - name: run test
+        run: echo "TEST=hi" >> $GITHUB_OUTPUT
+
+      - name: print output
+        run: echo "hi $TEST"
