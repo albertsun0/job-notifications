@@ -1,5 +1,5 @@
 name: Test
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: Sraping Jobs 🚀
 on:
   [push]
   # schedule:
@@ -8,7 +8,7 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🎉 The job was automatically triggered by a event."
 
       - name: checkout repo
         uses: actions/checkout@v2
@@ -22,10 +22,19 @@ jobs:
         run: python scrape.py
 
       - name: print output
-        run: echo "??? $FOO"
+        run: echo "RESULT=$SCRAPER_OUTPUTS"
 
-      - name: run test
-        run: echo "TEST=hi" >> $GITHUB_OUTPUT
+      - name: Get Current Time as ENV
+        run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
 
-      - name: print output
-        run: echo "hi $TEST"
+      - name: Create Issue With Results
+        uses: dacbd/create-issue-action@main
+        with:
+          token: ${{ github.token }}
+          title: New Jobs Scraped - ${{ env.NOW }}
+
+          # Auto-assign person who triggered the failure.
+          assignees: ${{ github.actor }},${{ github.triggering_actor }}
+          labels: scrape
+          body: |
+            ${{ env.SCRAPER_OUTPUTS }}
