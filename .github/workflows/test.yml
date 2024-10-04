@@ -33,7 +33,7 @@ jobs:
       - name: Create Issue With Results
         uses: dacbd/create-issue-action@main
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           title: New Jobs Scraped - ${{ env.NOW }}
 
           # Auto-assign person who triggered the failure.
