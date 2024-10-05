@@ -51,9 +51,14 @@ jobs:
           body: ${{env.SCRAPER_OUTPUTS}}
 
   write-changes:
+    needs: ScrapeJobs
     permissions: write-all # for ad-m/github-push-action
     runs-on: ubuntu-latest
     steps:
+      - name: Run check of pwd
+        run: pwd
+      - name: Run check of what's in pwd
+        run: ls
       - name: Commit files
         id: commit
         run: |
