@@ -39,8 +39,8 @@ if os.path.isfile("cache/saved-readme.md"):
     result += addHeader(4) + "\n".join(diff)
     print(result)
 
-# with open("cache/saved-readme.md", "w") as f:
-#     f.write(readme)
+with open("cache/saved-readme.md", "w") as f:
+    f.write(readme)
 
 
 def set_multiline_output(name, value):
@@ -50,5 +50,9 @@ def set_multiline_output(name, value):
         print(value, file=fh)
         print(delimiter, file=fh)
 
+
+# should we throw exception?
+if result == "":
+    result = "No new jobs for now."
 
 set_multiline_output("SCRAPER_OUTPUTS", result)
