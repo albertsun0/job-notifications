@@ -57,4 +57,4 @@ if result == "":
     result = "No new jobs for now."
 
 print(result)
-# set_multiline_output("SCRAPER_OUTPUTS", result)
+set_multiline_output("SCRAPER_OUTPUTS", result)
