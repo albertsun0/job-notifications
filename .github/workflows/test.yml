@@ -27,9 +27,6 @@ jobs:
       - id: runScraper
         run: python scrape.py
 
-      - name: print output
-        run: echo "RESULT=$SCRAPER_OUTPUTS"
-
   create-issue-1:
     permissions:
       issues: write
@@ -54,4 +51,4 @@ jobs:
 
           # Auto-assign person who triggered the failure.
           labels: scrape
-          body: $SCRAPER_OUTPUTS
+          body: "$SCRAPER_OUTPUTS"
