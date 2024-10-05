@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H.B. Fuller](http://www.hbfuller.com)** | **[Contractor – SAP Implementation Specialist](https://jobright-internal.com/jobs/info/6701255b005c8cdd80539940?utm_campaign=Software%20Engineering&utm_source=1103)** | Michigan Center, MI | On Site | Oct 05 |
+| **[MissionWired](https://missionwired.com/)** | **[Marketing Cloud Specialist (Salesforce)](https://jobright-internal.com/jobs/info/66c8d976f88e10b2e135f769?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 05 |
+| **[Stripe](https://www.stripe.com)** | **[Software Engineer, New Grad](https://jobright-internal.com/jobs/info/670129be58e5ef16462850f9?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 05 |
+| **[Adobe](http://www.adobe.com)** | **[2025 University Graduate - Software Development Engineer](https://jobright-internal.com/jobs/info/66e469ef3869f31c2aef747d?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 05 |
+| ↳ | **[2025 University Graduate - Software Development Engineer](https://jobright-internal.com/jobs/info/66e4703a4c4b405abfc35cf6?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 05 |
 | **[Mastercard](http://www.mastercard.com)** | **[BizOps Engineer I-R-221568](https://jobright-internal.com/jobs/info/6701144e961ac44eda162d36?utm_campaign=Software%20Engineering&utm_source=1103)** | Missouri, United States | Hybrid | Oct 05 |
 | **[Vituity](https://www.vituity.com)** | **[Software Engineer I - Remote - Nationwide](https://jobright-internal.com/jobs/info/670101e896464f15923e2688?utm_campaign=Software%20Engineering&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 05 |
 | **[Businessolver](https://www.businessolver.com)** | **[Test Engineer I (Work Remotely Anywhere in the United States)](https://jobright-internal.com/jobs/info/6700d043b1009e7f61e77fde?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 04 |
