@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import uuid
 
 source = "https://api.github.com/repos/cvrve/New-Grad-2025/readme"
 
@@ -40,5 +41,13 @@ result = addHeader(4) + "\n".join(diff)
 # with open("cache/saved-readme.md", "w") as f:
 #     f.write(readme)
 
-with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
-    print(f'{"SCRAPER_OUTPUTS"}={result}', file=fh)
+
+def set_multiline_output(name, value):
+    with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
+        delimiter = uuid.uuid1()
+        print(f"{name}<<{delimiter}", file=fh)
+        print(value, file=fh)
+        print(delimiter, file=fh)
+
+
+set_multiline_output("SCRAPER_OUTPUTS", result)
