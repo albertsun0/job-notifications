@@ -8,6 +8,7 @@ on:
 jobs:
   ScrapeJobs:
     runs-on: ubuntu-latest
+    permissions: write-all
     outputs:
       SCRAPER_OUTPUTS: ${{ steps.runScraper.outputs.SCRAPER_OUTPUTS }}
     steps:
@@ -26,6 +27,29 @@ jobs:
 
       - id: runScraper
         run: python scrape.py
+
+      - name: Run check of pwd
+        run: pwd
+      - name: Run check of what's in pwd
+        run: ls
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          if [-z "$(git status --porcelain)"]; then
+            echo "::set-output name=push::false"
+          else
+            git commit -m "Add changes" -a
+            echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
   create-issue:
     permissions:
@@ -49,29 +73,3 @@ jobs:
           title: New Jobs Scraped - ${{ env.NOW }}
           labels: scrape
           body: ${{env.SCRAPER_OUTPUTS}}
-
-  write-changes:
-    needs: ScrapeJobs
-    permissions: write-all # for ad-m/github-push-action
-    runs-on: ubuntu-latest
-    steps:
-      - name: Run check of pwd
-        run: pwd
-      - name: Run check of what's in pwd
-        run: ls
-      - name: Commit files
-        id: commit
-        run: |
-          git add --all
-          if [-z "$(git status --porcelain)"]; then
-            echo "::set-output name=push::false"
-          else
-            git commit -m "Add changes" -a
-            echo "::set-output name=push::true"
-          fi
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
