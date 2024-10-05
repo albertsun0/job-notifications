@@ -42,7 +42,7 @@ for source in sources:
                 index += 1
 
             if diff:
-                result += "##" + source + "\n\n"
+                result += "## " + source + "\n\n"
                 rows = diff[0].count("|") - 1
                 result += addHeader(rows) + "\n".join(diff)
                 result += "\n\n"
