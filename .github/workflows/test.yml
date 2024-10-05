@@ -28,11 +28,7 @@ jobs:
       - id: runScraper
         run: python scrape.py
 
-      - name: Run check of pwd
-        run: pwd
-      - name: Run check of what's in pwd
-        run: ls
-      - name: Commit files
+      - name: Commit changes
         id: commit
         run: |
           git config --local user.email "action@github.com"
@@ -41,7 +37,7 @@ jobs:
           if [-z "$(git status --porcelain)"]; then
             echo "::set-output name=push::false"
           else
-            git commit -m "Add changes" -a
+            git commit -m "Updating readmes" -a
             echo "::set-output name=push::true"
           fi
         shell: bash

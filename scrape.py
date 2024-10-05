@@ -1,58 +1,60 @@
 import os
 import requests
 import json
-import uuid
-
-source = "https://api.github.com/repos/cvrve/New-Grad-2025/readme"
-
-response = requests.get(source)
-url = json.loads(response.text)["download_url"]
+from utils import set_multiline_output, addHeader
 
 result = ""
-readme = requests.get(url).text
-oldReadme = None
+sources = []
 
+with open("sources.txt", "r") as f:
+    for line in f:
+        sources.append(line.strip())
 
-def addHeader(num_cols):
-    return "|" * (num_cols + 1) + "\n" + "|-" * num_cols + "|" + "\n"
+for source in sources:
+    print("Scraping README.md from", source)
+    try:
+        owner = source.split("/")[-2]
+        repo = source.split("/")[-1]
 
+        cacheURL = f"cache/{owner}-{repo}.md"
+        readmeEndpoint = f"https://api.github.com/repos/{owner}/{repo}/readme"
 
-if os.path.isfile("cache/saved-readme.md"):
-    with open("cache/saved-readme.md", "r") as f:
-        oldReadme = f.read()
+        response = requests.get(readmeEndpoint)
+        url = json.loads(response.text)["download_url"]
 
-    print("loaded from cache")
-    # print(oldReadme)
+        readme = requests.get(url).text
 
-    diff = []
+        if os.path.isfile(cacheURL):
+            with open(cacheURL, "r") as f:
+                oldReadme = f.read()
 
-    if oldReadme is not None:
-        readme_split = readme.split("\n")
-        oldReadme_split = oldReadme.split("\n")
-        index = 0
-        for i in range(len(readme_split)):
-            if readme_split[i] != oldReadme_split[index]:
-                diff.append(readme_split[i])
-                continue
-            index += 1
+            print("loaded from cache")
 
-    result += addHeader(4) + "\n".join(diff)
-    print(result)
+            diff = []
 
-with open("cache/saved-readme.md", "w") as f:
-    f.write(readme)
+            readme_split = readme.split("\n")
+            oldReadme_split = oldReadme.split("\n")
+            index = 0
+            for i in range(len(readme_split)):
+                if readme_split[i] != oldReadme_split[index]:
+                    diff.append(readme_split[i])
+                    continue
+                index += 1
 
+            if diff:
+                result += "##" + source + "\n\n"
+                rows = diff[0].count("|") - 1
+                result += addHeader(rows) + "\n".join(diff)
+                result += "\n\n"
 
-def set_multiline_output(name, value):
-    with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
-        delimiter = uuid.uuid1()
-        print(f"{name}<<{delimiter}", file=fh)
-        print(value, file=fh)
-        print(delimiter, file=fh)
+        with open(cacheURL, "w") as f:
+            f.write(readme)
 
+    except Exception as e:
+        print("ERROR SCRAPING", source, e)
 
-# should we throw exception?
 if result == "":
     result = "No new jobs for now."
 
-set_multiline_output("SCRAPER_OUTPUTS", result)
+print(result)
+# set_multiline_output("SCRAPER_OUTPUTS", result)
