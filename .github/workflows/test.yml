@@ -2,11 +2,14 @@ name: Test
 run-name: Sraping Jobs 🚀
 on:
   [push]
+
   # schedule:
   #     - cron:  '0 10 * * *'
 jobs:
-  Explore-GitHub-Actions:
+  ScrapeJobs:
     runs-on: ubuntu-latest
+    outputs:
+      output1: ${{ steps.runScraper.outputs.SCRAPER_OUTPUTS }}
     steps:
       - run: echo "🎉 The job was automatically triggered by a event."
 
@@ -21,11 +24,25 @@ jobs:
       - name: install requirements
         run: pip install -r requirements.txt
 
-      - name: run scraper
+      - id: runScraper
         run: python scrape.py
 
       - name: print output
         run: echo "RESULT=$SCRAPER_OUTPUTS"
+
+  create-issue-1:
+    permissions:
+      issues: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    needs: ScrapeJobs
+    steps:
+      - env:
+          SCRAPER_OUTPUTS: ${{needs.ScrapeJobs.outputs.SCRAPER_OUTPUTS}}
+        run: echo "$SCRAPER_OUTPUTS"
+
+      - name: idk
+        run: echo "$SCRAPER_OUTPUTS"
 
       - name: Get Current Time as ENV
         run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
