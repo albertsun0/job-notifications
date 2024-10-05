@@ -51,4 +51,4 @@ jobs:
 
           # Auto-assign person who triggered the failure.
           labels: scrape
-          body: "$SCRAPER_OUTPUTS"
+          body: ${{env.SCRAPER_OUTPUTS}}
