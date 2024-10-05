@@ -2,8 +2,8 @@ name: Test
 run-name: Sraping Jobs 🚀
 on:
   schedule:
-    - cron: "0 20 * * *"
-    - cron: "0 7 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 0 * * *"
 jobs:
   ScrapeJobs:
     runs-on: ubuntu-latest
