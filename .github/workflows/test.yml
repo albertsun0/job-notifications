@@ -9,7 +9,7 @@ jobs:
   ScrapeJobs:
     runs-on: ubuntu-latest
     outputs:
-      output1: ${{ steps.runScraper.outputs.SCRAPER_OUTPUTS }}
+      SCRAPER_OUTPUTS: ${{ steps.runScraper.outputs.SCRAPER_OUTPUTS }}
     steps:
       - run: echo "🎉 The job was automatically triggered by a event."
 
@@ -54,7 +54,6 @@ jobs:
           title: New Jobs Scraped - ${{ env.NOW }}
 
           # Auto-assign person who triggered the failure.
-          assignees: ${{ github.actor }},${{ github.triggering_actor }}
           labels: scrape
           body: |
             ${{ env.SCRAPER_OUTPUTS }}
