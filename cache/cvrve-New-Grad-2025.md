@@ -38,6 +38,14 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Microsoft** | Software Engineer 🇺🇸 | Redmond, WA | <a href="http://redirect.cvrve.me/9582cc2f442c01881153?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Lumen** | Security Specialist Intern | Remote</br>US | <a href="http://redirect.cvrve.me/a059ca07597ae14c4aa5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Intuit** | Software Engineer 1 | <details><summary>**4 locations**</summary>Mountain View, CA</br>San Diego, CA</br>Atlanta, CA</br>New York, NY</details> | <a href="http://redirect.cvrve.me/2747621558b9ce7b6f00?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **IBM** | Software Developer – Full-Stack | Markham, CA | <a href="http://redirect.cvrve.me/8e3f6f1869bbef1e83d3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Disney** | Software Engineer I | Santa Monica, CA</br>New York, NY | <a href="http://redirect.cvrve.me/cb8ae50099cc02beb9bd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Cerebras Systems** | New Grad: Performance Engineer - Masters/PhD | Sunnyvale, CA | <a href="http://redirect.cvrve.me/961de5754a980d5054f8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Cerebras Systems** | New Grad: Kernel Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/bbfa8c1525443464dc65?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
+| **Cerebras Systems** | New Grad: Applied ML Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/4af6fbacef5d9ac5a2a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Uber** | New Grad 2024: Machine Learning Engineer I | San Francisco, CA | <a href="http://redirect.cvrve.me/412764a51a7e9844e86e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **SoFi** | Software Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/0ae2c2749b37a9a09896?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
 | **ICF** | New Grad 2025: Software Engineer | Reston, VA | <a href="http://redirect.cvrve.me/d00a5756630d61feff97?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 05 |
@@ -468,6 +476,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Founders, Inc** | Full Stack Engineer | San Francisco, CA | 🔒 | Oct 06 |
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | 🔒 | Oct 02 |
 | **Matroid** | Full Stack Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 02 |
 | **Codazen** | New Grad 2025: Full-Stack Engineer | Salt Lake City, UT | 🔒 | Oct 02 |
