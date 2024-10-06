@@ -44,7 +44,8 @@ for source in sources:
                 rows = diff[0].count("|") - 1
                 result += addHeader(rows) + "\n".join(diff)
                 result += "\n\n"
-
+        else:
+            print("no cache: creating cache at", cacheURL)
         with open(cacheURL, "w") as f:
             f.write(readme)
 
