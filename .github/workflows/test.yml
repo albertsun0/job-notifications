@@ -1,6 +1,7 @@
 name: Test
 run-name: Sraping Jobs 🚀
 on:
+  push:
   schedule:
     - cron: "0 13 * * *"
     - cron: "0 0 * * *"

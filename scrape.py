@@ -33,13 +33,11 @@ for source in sources:
             diff = []
 
             readme_split = readme.split("\n")
-            oldReadme_split = oldReadme.split("\n")
-            index = 0
-            for i in range(len(readme_split)):
-                if readme_split[i] != oldReadme_split[index]:
-                    diff.append(readme_split[i])
-                    continue
-                index += 1
+            oldReadme_split = set(oldReadme.split("\n"))
+
+            for line in readme_split:
+                if line not in oldReadme_split:
+                    diff.append(line)
 
             if diff:
                 result += "## " + source + "\n\n"
