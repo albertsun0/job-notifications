@@ -25,6 +25,25 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 
 ---
 
+<div align="center">
+	<h3 >Want notifications when new roles open? </h3>
+	<p>
+		Join the ⬇️ <strong> discord <strong/> ⬇️ and get your applications in right when they open!
+		<a href="https://bit.ly/ouckah">
+			<b style="color: #0073e6; font-size: 1.2em;"></b>
+				<br style="color: #0073e6; font-size: 1.2em;">
+			<div>
+				<a href="https://bit.ly/ouckah">
+          <img src="https://i.imgur.com/iB9IFtQ.png" width="450" alt="cvrve">
+        </a>
+			</div>
+		</a>
+		<sub><i>Join the Discord to connect with fellow peers and streamline your newgrad search.</i></sub>
+	</p>
+</div>
+
+---
+
 ## The List 🚴🏔
 
  - 🛂 - Does NOT offer Sponsorship
@@ -41,9 +60,13 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Roblox** | New Grad 2025: Security Software Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/a7febe06d9d6eccdb8ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Roblox** | New Grad 2025: Software Engineer, Frontend | San Mateo, CA | <a href="http://redirect.cvrve.me/8557797426fef91e31a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Qualtrics** | Software Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/d8bb4867364732201cb4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
-| **Jellyfish** | Backend Software Engineer | Boston, MA</br>Remote | <a href="http://redirect.cvrve.me/13c7460e5c6d1224b657?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Jellyfish** | Backend Software Engineer 🛂 | Boston, MA</br>Remote | <a href="http://redirect.cvrve.me/13c7460e5c6d1224b657?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Honeywell** | New Grad 2025: Software Engineer 🇺🇸 | United States | <a href="http://redirect.cvrve.me/1caf096cff8711ec20c9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Honeywell** | New Grad 2025: Software Engineer | LocationUnited States | <a href="http://redirect.cvrve.me/57702061c2f93bb70fe1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Google** | New Grad 2025: Software Engineer - PhD | <details><summary>**18 locations**</summary>Mountain View, CA</br>Atlanta, GA</br>Austin, TX</br>Bellevue, WA</br>Cambridge, MA</br>Irvine, CA</br>Kirkland, WA</br>Los Angeles, CA</br>New York, NY</br>Pittsburgh, PA</br>Raleigh, NC</br>Durham, NC</br>Reston, VA</br>San Bruno, CA</br>Seattle, WA</br>San Francisco, CA</br>San Jose, CA</br>Sunnyvale, CA</details> | <a href="http://redirect.cvrve.me/723def7a84dfc3f371ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **Cubesmart** | Data Engineer | Malvern, PA | <a href="http://redirect.cvrve.me/9cbf14b10a40818846b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Codazen** | New Grad 2025: Full-Stack Engineer | Irvine, CA | <a href="http://redirect.cvrve.me/f98c389e9af48cebf99f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
+| **Cambridge Mobile Telematics** | Software Engineer I | Cambridge, MA | <a href="http://redirect.cvrve.me/3de0bb4f50bff440dbc0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 09 |
 | **TD Bank** | New Grad 2025: Data Engineer Analyst 🛂 | New York, NY | <a href="http://redirect.cvrve.me/d441872c757918c5ba68?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | **S&P Global** | New Grad 2025: Software Engineer | Cambridge, MA</br>New York, NY | <a href="http://redirect.cvrve.me/a18e72ab8f0edde26f3e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 08 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Big Data | Santa Clara, CA | <a href="http://redirect.cvrve.me/bc60fb53fdbd041ae32a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
@@ -99,7 +122,6 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Microsoft** | Software Engineer | Redmond, WA | <a href="http://redirect.cvrve.me/9bbc651a4772e3c54f6e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Meta** | Software Engineer, Language | <details><summary>**5 locations**</summary>Bellevue, WA</br>Menlo Park, CA</br>Seattle, WA</br>New York, NY</br>San Francisco, CA</details> | <a href="http://redirect.cvrve.me/55fb121f6313f101cbaa?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Jane Street** | Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/95054f5f15d563117974?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
-| **ICF** | Associate Software Engineer | locations Albany, NY | <a href="http://redirect.cvrve.me/3b5460daed1c16261da7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Coalition** | Software Engineer, Renewals | United States | <a href="http://redirect.cvrve.me/678646d404d013b473e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Coalition** | Software Engineer | United States | <a href="http://redirect.cvrve.me/a5813abc03255ed6ebb8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
 | **Aviatrix** | Software Engineer | Champaign, IL | <a href="http://redirect.cvrve.me/c26891f09653f09fb093?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 02 |
@@ -488,6 +510,7 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | **Founders, Inc** | Full Stack Engineer | San Francisco, CA | 🔒 | Oct 06 |
 | **Swift** | Associate Software Developer/Systems Engineer | Tysons Corner, VA | 🔒 | Oct 02 |
 | **Matroid** | Full Stack Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 02 |
+| **ICF** | Associate Software Engineer | locations Albany, NY | 🔒 | Oct 02 |
 | **Codazen** | New Grad 2025: Full-Stack Engineer | Salt Lake City, UT | 🔒 | Oct 02 |
 | **Spotify** | Full Stack Engineer | New York, NY | 🔒 | Sep 27 |
 | **OpenAI** | Software Engineer, Applied Emerging Talent | San Francisco, CA | 🔒 | Sep 23 |
