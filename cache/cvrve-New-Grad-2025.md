@@ -1,4 +1,4 @@
-# New Grad Positions(Inspired by [Coder Quad and Simplify Repo](https://github.com/SimplifyJobs/New-Grad-Positions))
+# New Grad Positions by Cvrve
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
 The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/), and [Resumes.fyi](https://resumes.fyi/)!
@@ -7,6 +7,8 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/cvrve/New-Grad/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+
+This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/New-Grad-2025).
 
 ---
 <div align="center">
@@ -58,7 +60,12 @@ The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked]
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **S&P Global** | Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/7f18c92f6d0489321f9a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **Red Hat** | Software Engineer | Raleigh, NC | <a href="http://redirect.cvrve.me/7855ba79545a01e22104?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **Marex** | C# Software Developer | Chicago, IL | <a href="http://redirect.cvrve.me/47d38c0b4f5fdac66dd0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **KBR** | Software Engineer 🇺🇸 | Colorado Springs, CO | <a href="http://redirect.cvrve.me/6673203225633cac18b7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **Fortinet** | Software Development Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/163ace759c4a223ea632?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Fetch** | Data Ops Data Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/e0b740fe0e4dbc6f68dd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| **Amazon** | Security Engineer | Seattle, WA</br>Arlington, VA</br>Herndon, VA | <a href="http://redirect.cvrve.me/e994c93d2c3dd7d57fee?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | **Yardi** | Software Development Engineer I | Santa Barbara, CA | <a href="http://redirect.cvrve.me/e84793f1943a7e71efbe?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **TikTok** | New Grad 2025: Frontend Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/5145ea3dc8f946837449?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | **Splunk** | New Grad 2025: C++ Software Engineer | Colorado</br>Remote | <a href="http://redirect.cvrve.me/24533eb1ea20d2753bd5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
