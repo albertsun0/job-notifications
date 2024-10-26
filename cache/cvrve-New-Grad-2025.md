@@ -59,6 +59,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Roblox** | New Grad 2025: Software Engineer, Game Engine Performance | San Mateo, CA | <a href="http://redirect.cvrve.me/ccd05411a13be468a925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Remitly** | Software Development Engineer 1 | Seattle, WA | <a href="http://redirect.cvrve.me/cccd23bf1121a079379f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Pax8** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/84b8e5e5ee587b6f60d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **NVIDIA** | New Grad 2025: Math Libraries Engineer | Santa Clara, CA</br>Remote | <a href="http://redirect.cvrve.me/19c4d0998aa99cb6ac2f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Nextdoor** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/9614d43a67fa41f6dcba?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Merck & Co** | Junior Data Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/d131385c28e06d1ebdca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **LexisNexis** | Software Engineer I | Alpharetta, GA | <a href="http://redirect.cvrve.me/88a24026b8a035e3e785?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Expedia** | Software Development Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/0c57a1334c768b556cf0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| **Ciena** | New Grad 2025: Waveserver Software Developer | Atlanta, GA | <a href="http://redirect.cvrve.me/126039d8cdb5447d327c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Squarespace** | New Grad 2024: Software Engineer, Java | New York, NY | <a href="http://redirect.cvrve.me/7ba79f95f16976a1b7e1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **Doordash** | New Grad 2025: Software Engineer | <details><summary>**5 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</br>Los Angeles, CA</details> | <a href="http://redirect.cvrve.me/badb380ee81bb1aa0be4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | **NOV** | New Grad 2024: Software Engineer | Houston, TX | <a href="http://redirect.cvrve.me/ae2b71d09c2cec1823bb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
