@@ -59,6 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **The Aerospace Corporation** | New Grad 2025: Cloud Native Developer | Colorado Springs, CO</br>Chantilly, VA | <a href="http://redirect.cvrve.me/073a912d28eb6ee9ab52?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **Siemens** | New Grad 2025: Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/0f673f35d56dc9e8d6a3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **Salesforce** | New Grad: Software Engineering AMTS/MTS | <details><summary>**10 locations**</summary>San Francisco, CA</br>Chicago, IL</br>Boston, MA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</br>Bellevue, WA</br>Cambridge, MA</br>Atlanta, GA</br>Indianapolis, IN</details> | <a href="http://redirect.cvrve.me/c41269454475ee7b3677?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **Roblox** | New Grad 2025: Software Engineer, Networking | San Mateo, CA | <a href="http://redirect.cvrve.me/8efcffe939da519bdcc8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| **NVIDIA** | New Grad 2025: Formal Verification Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/c6586938f2703de5e51b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Performance | San Mateo, CA | <a href="http://redirect.cvrve.me/ccd05411a13be468a925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Remitly** | Software Development Engineer 1 | Seattle, WA | <a href="http://redirect.cvrve.me/cccd23bf1121a079379f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | **Pax8** | Data Engineer I | United States | <a href="http://redirect.cvrve.me/84b8e5e5ee587b6f60d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
