@@ -17,7 +17,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 			Search through a database of ⬇️ <strong>resumes</strong> ⬇️ that have passed screens at your dream companies. 
 			<br>
 			<div>
-			<a href="https://discord.gg/Q8Kd3Cv9U8">
+			<a href="https://resumes.fyi">
           <img src="https://github.com/user-attachments/assets/a1aab54c-6420-4266-801d-165b1b691627" width="450" alt="Email">
         </a>
 			</div>
@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Kikoff** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/e220336b802263317e7d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| **Inkeep** | Backend Engineer | New York, NY</br>San Francisco, CA | <a href="http://redirect.cvrve.me/fc4eaeed99a132887a7a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
+| **Blue Origin** | New Grad 2025: DevOps Engineer | Seattle, WA</br>Denver, CO | <a href="http://redirect.cvrve.me/244a153a123b0948c09c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **The Aerospace Corporation** | New Grad 2025: Cloud Native Developer | Colorado Springs, CO</br>Chantilly, VA | <a href="http://redirect.cvrve.me/073a912d28eb6ee9ab52?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Siemens** | New Grad 2025: Software Engineer | Wilsonville, OR | <a href="http://redirect.cvrve.me/0f673f35d56dc9e8d6a3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | **Salesforce** | New Grad: Software Engineering AMTS/MTS | <details><summary>**10 locations**</summary>San Francisco, CA</br>Chicago, IL</br>Boston, MA</br>New York, NY</br>Seattle, WA</br>Burlington, MA</br>Bellevue, WA</br>Cambridge, MA</br>Atlanta, GA</br>Indianapolis, IN</details> | <a href="http://redirect.cvrve.me/c41269454475ee7b3677?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
