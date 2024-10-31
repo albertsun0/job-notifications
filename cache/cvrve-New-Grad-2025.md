@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **OuterBox** | Front End Developer | Remote</br>US | <a href="http://redirect.cvrve.me/0d426b95203cf796833f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| **Forward** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/562b75af7e663e19d932?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| **Crusoe** | University Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/1979362cd8ee7ddbc5f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Kikoff** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/e220336b802263317e7d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Inkeep** | Backend Engineer | New York, NY</br>San Francisco, CA | <a href="http://redirect.cvrve.me/fc4eaeed99a132887a7a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Blue Origin** | New Grad 2025: DevOps Engineer | Seattle, WA</br>Denver, CO | <a href="http://redirect.cvrve.me/244a153a123b0948c09c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
