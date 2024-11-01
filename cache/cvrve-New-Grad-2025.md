@@ -59,6 +59,17 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Western Digital** | New Grad 2025: Application Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/ae4098b3e828be9f7724?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Western Digital** | New Grad 2025: Product Development Engineer | Milpitas, CA | <a href="http://redirect.cvrve.me/852e06e678c8431b2a9d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Sprout Social** | New Grad: Associate Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/7d01db5059c149963794?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Sprout Social** | New Grad: Associate Data Scientist | Remote</br>US | <a href="http://redirect.cvrve.me/f5e1d6953cfa8270e135?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **NVIDIA** | New Grad 2025: Research Engineer | Westford, MA</br>Austin, TX</br>Santa Clara, CA | <a href="http://redirect.cvrve.me/66de6583fe207705de82?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Meta** | New Grad: Software Engineer | <details><summary>**7 locations**</summary>Sunnyvale, CA</br>Bellevue, WA</br>Menlo Park, CA</br>Seattle, WA</br>Boston, MA</br>New York, NY</br>San Francisco, CA</details> | <a href="http://redirect.cvrve.me/1f1146d090abd506a26c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Medtronic** | Software Engineer I | Boston, MA | <a href="http://redirect.cvrve.me/e5922d613f203d17c654?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Medtronic** | Software Engineer I | Northridge, CA | <a href="http://redirect.cvrve.me/3f3d79fef522ceae6887?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **IBM** | Entry Level Firmware Developer | Austin, TX</br>Rochester, MN</br>Houston, TX | <a href="http://redirect.cvrve.me/5f81925390db4167a082?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Cadence Design Systems** | New Grad: Application Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/efc2d03fd2742fcc1977?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
+| **Adobe** | New Grad 2025: Machine Learning Engineer - Masters/PhD | Lehi, UT | <a href="http://redirect.cvrve.me/7a0431ed282f9090a920?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 01 |
 | **OuterBox** | Front End Developer | Remote</br>US | <a href="http://redirect.cvrve.me/0d426b95203cf796833f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Forward** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/562b75af7e663e19d932?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | **Crusoe** | University Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/1979362cd8ee7ddbc5f1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
