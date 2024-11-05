@@ -59,6 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Visa** | New Grad 2025: Site Reliability Engineer | Austin, TX | <a href="http://redirect.cvrve.me/9bce7aaea22f99bf4114?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Textron** | New Grad 2025: Software Engineer | Hunt Valley, MD | <a href="http://redirect.cvrve.me/9d798950995af5bf0e0c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Spotify** | Backend Engineer I | New York, NY | <a href="http://redirect.cvrve.me/fbf3703e98f091a7a712?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Genmo** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/112cc7753530ef4c8b3c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Adobe** | New Grad 2025: Research Scientist/Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/1b5bc775350283c4c0bc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Microsoft** | Software Engineer 🇺🇸 | Reston, VA | <a href="http://redirect.cvrve.me/e29d1aeedea10a2b02a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Horace Mann** | Software Engineer I | Springfield, IL | <a href="http://redirect.cvrve.me/aaac22539253eb61f357?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **SeatGeek** | New Grad 2025: Security Engineer | New York, NY | <a href="http://redirect.cvrve.me/1ec6499331ea393f2de0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 02 |
