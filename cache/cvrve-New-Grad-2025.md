@@ -59,10 +59,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Zip** | New Grad 2025: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/93f8475397ff878a6360?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Visa** | New Grad 2025: Site Reliability Engineer | Austin, TX | <a href="http://redirect.cvrve.me/9bce7aaea22f99bf4114?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Textron** | New Grad 2025: Software Engineer | Hunt Valley, MD | <a href="http://redirect.cvrve.me/9d798950995af5bf0e0c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
-| **Spotify** | Backend Engineer I | New York, NY | <a href="http://redirect.cvrve.me/fbf3703e98f091a7a712?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Genmo** | New Grad: Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/112cc7753530ef4c8b3c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Exact Sciences** | Software Engineer I | San Diego, CA</br>Madison, WI | <a href="http://redirect.cvrve.me/d03bd17182e49b4467dd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **bet365** | Software Engineer, Core Systems | Denver, CO | <a href="http://redirect.cvrve.me/0d821aa40ef122a706a6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **bet365** | Software Developer, Trading and Tools | Denver, CO | <a href="http://redirect.cvrve.me/449c246ef6853a0239b3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
+| **Amazon** | Software Dev Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/eb66411b34449e7c378d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Adobe** | New Grad 2025: Research Scientist/Engineer | San Jose, CA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/1b5bc775350283c4c0bc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 05 |
 | **Microsoft** | Software Engineer 🇺🇸 | Reston, VA | <a href="http://redirect.cvrve.me/e29d1aeedea10a2b02a8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
 | **Horace Mann** | Software Engineer I | Springfield, IL | <a href="http://redirect.cvrve.me/aaac22539253eb61f357?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 03 |
@@ -482,6 +486,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Palantir** | Software Engineer – New Grad - US Government | Washington, DC | <a href="https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | NYC | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 01 |
+| **Spotify** | Backend Engineer I | New York, NY | 🔒 | Nov 05 |
 | **Samsara** | New Grad: Software Engineer | Remote</br>US | 🔒 | Oct 22 |
 | **Palantir** | New Grad: Forward Deployed Software Engineer 🇺🇸 | Palo Alto, CA | 🔒 | Oct 22 |
 | **Gecko Robotics** | New Grad 2025: Forward Deployed Software Engineer | New York, NY | 🔒 | Oct 22 |
