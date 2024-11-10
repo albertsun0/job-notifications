@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **UPS** | Software Development Engineer I | Louisville, KT | <a href="http://redirect.cvrve.me/99a88d78768c18ee594f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| **Twilio** | New Grad: Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/96a2cb91a4ff9435448f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
+| **NVIDIA** | New Grad 2024: AI Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/87f2195f1ec362cb92ff?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **Roblox** | New Grad 2025: Software Engineer, Game Engine Reliability | San Mateo, CA | <a href="http://redirect.cvrve.me/2ebff5f339585c63b005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **PhonePe** | Software Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/60d765a5fcbe894d2443?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
 | **Mach Industries** | New Grad 2025: Software Engineer | Huntington Beach, CA | <a href="http://redirect.cvrve.me/7c79ff91614dc41d6612?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 08 |
