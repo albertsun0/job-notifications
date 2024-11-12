@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Symbotic** | New Grad: Software Engineer | Keene, NH</br>Wilmington, MA | <a href="http://redirect.cvrve.me/3566c9a9acbed114891d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **UPS** | Software Development Engineer I | Louisville, KT | <a href="http://redirect.cvrve.me/99a88d78768c18ee594f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **Twilio** | New Grad: Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/96a2cb91a4ff9435448f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **NVIDIA** | New Grad 2024: AI Software Engineer | Seattle, WA</br>San Francisco, CA | <a href="http://redirect.cvrve.me/87f2195f1ec362cb92ff?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
