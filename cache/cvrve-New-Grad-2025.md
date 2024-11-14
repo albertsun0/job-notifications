@@ -59,6 +59,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sierra Space** | Software Engineer I | Broomfield, CO | <a href="http://redirect.cvrve.me/fd93eefb7285bc50595f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| **Amazon** | New Grad 2025: Software Development Engineer | <details><summary>**9 locations**</summary>Austin, TX</br>Sunnyvale, CA</br>Seattle, WA</br>Redmond, WA</br>Santa Clara, CA</br>Bellevue, WA</br>New York, NY</br>East Palo Alto, CA</br>Cambridge, MA</details> | <a href="http://redirect.cvrve.me/7b52d666c47ed8c3dc71?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | **Symbotic** | New Grad: Software Engineer | Keene, NH</br>Wilmington, MA | <a href="http://redirect.cvrve.me/3566c9a9acbed114891d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | **UPS** | Software Development Engineer I | Louisville, KT | <a href="http://redirect.cvrve.me/99a88d78768c18ee594f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
 | **Twilio** | New Grad: Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/96a2cb91a4ff9435448f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 09 |
