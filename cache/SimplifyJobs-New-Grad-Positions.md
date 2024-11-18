@@ -245,7 +245,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **NVIDIA** | Optical Mixed Signal Design Software Engineer – New College Grad 2024 | Santa Clara, CA | 🔒 | Sep 20 |
 | **Splunk** | Software Engineer – Early Career - Boulder - CO or Raleigh - NC - Jan 2025 or sooner start date ONLY | Raleigh, NC</br>Boulder, CO | 🔒 | Sep 20 |
 | **ELEVI Associates** | Entry Level Software Engineer | Annapolis Junction, MD | 🔒 | Sep 20 |
-| **[DV Trading](https://simplify.jobs/c/DV-Trading)** | Junior Quantitative Developer | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/dvtrading/jobs/4475499005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9f73ebc2-717c-47ee-a630-ed3ff5aade38?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 20 |
+| **DV Trading** | Junior Quantitative Developer | Toronto, ON, Canada | 🔒 | Sep 20 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | Pittsburgh, PA | 🔒 | Sep 18 |
 | **Duolingo** | Data Scientist I – New Graduate | NYC | 🔒 | Sep 18 |
@@ -325,7 +325,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | Junior Software Engineer | Remote in USA | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4383912006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9de17cca-57cb-4ea4-b73b-f9b65eafa5c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
 | **Wiley Edge** | Junior Software Engineer | NYC | 🔒 | Aug 30 |
 | **Wiley Edge** | Junior Data Scientist | Canada | 🔒 | Aug 30 |
-| **[Wiley Edge](https://simplify.jobs/c/WileyEdge)** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | <a href="https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4375160006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b2f60989-d115-4b9e-a071-5d6540c5313f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 30 |
+| **Wiley Edge** | C++ Junior Software Engineer - London Heathrow - UK | Feltham, UK | 🔒 | Aug 30 |
 | **NVIDIA** | Senior AI Software Engineer – New College Grad 2024 - Copilots | Seattle, WA</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Aug 30 |
 | **Qualtrics** | Software Development Engineer I - Internal Development Team | Provo, UT | 🔒 | Aug 30 |
 | **Wyetech LLC** | Software Engineer 1/Jr. Java Developer | Odenton, MD | 🔒 | Aug 30 |
