@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Uplimit** | Software Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/0a73d29abbf9c17a5b80?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| **Bytedance** | New Grad 2024: Software Engineer | Seattle, WA | <a href="http://redirect.cvrve.me/2bf573e17bffd84008b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
+| **Applied Intuition** | Software Engineer 🇺🇸 | Washington, DC | <a href="http://redirect.cvrve.me/aa448841bcf5397bc179?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | **The Aerospace Corporation** | New Grad 2025: Embedded Software Engineer | El Segundo, CA | <a href="http://redirect.cvrve.me/9cf0746417d254b5782d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Salesforce** | Software Engineer, AMTS | San Francisco, CA</br>Remote | <a href="http://redirect.cvrve.me/56ac6c2f417222650962?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | **Rubrik** | Software Engineer, Entra ID | Palo Alto, CA | <a href="http://redirect.cvrve.me/809f3d758c311f248a23?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
