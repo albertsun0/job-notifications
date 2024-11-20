@@ -59,6 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Salesforce** | New Grad: Associate Data Scientist | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | <a href="http://redirect.cvrve.me/b892cf38af40ce133e59?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Nike** | Software Engineer I | Beaverton, OR | <a href="http://redirect.cvrve.me/4c1f29af6aab205d5a0c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **ConnectWise** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/a7b0132a8cc95abfe98d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Collaborative Robotics** | New Grad: Software Engineer, Robotics | Santa Clara, CA | <a href="http://redirect.cvrve.me/6aeeead53f78db2615c7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| **Collaborative Robotics** | New Grad: Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/168cc28aa36dd34ebfdb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **USAA** | Data Engineer I | San Antonio, TX | <a href="http://redirect.cvrve.me/eb0baae9e7c23f3457bd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Gryps** | Backend Software Engineer | New York, NY | <a href="http://redirect.cvrve.me/a78a8db7b7fe168a038e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Baxter** | Software Engineer I | Round Lake, IL | <a href="http://redirect.cvrve.me/2cd9362250ffec6f60b9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
