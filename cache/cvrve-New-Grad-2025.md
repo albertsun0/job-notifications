@@ -59,6 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Frontend Software Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/a7a06702af317377836a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| **Salesforce** | New Grad: Machine Learning Engineer | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | <a href="http://redirect.cvrve.me/dbc753b094c552f44449?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| **Qualcomm** | GPU Compiler Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/14abe0912fc011fca291?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| **NVIDIA** | New Grad 2025: Software Engineer, Virtualization | Santa Clara, CA | <a href="http://redirect.cvrve.me/fa1f4f58bfc242a28ee8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| **NVIDIA** | New Grad 2025: ASIC Verification Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/b4aefc307a1cb264f882?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Salesforce** | New Grad: Associate Data Scientist | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | <a href="http://redirect.cvrve.me/b892cf38af40ce133e59?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **Nike** | Software Engineer I | Beaverton, OR | <a href="http://redirect.cvrve.me/4c1f29af6aab205d5a0c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | **ConnectWise** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/a7b0132a8cc95abfe98d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
