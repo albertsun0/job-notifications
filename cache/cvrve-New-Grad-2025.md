@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Replicate** | Software Engineer | San Francisco, CA</br>Remote | <a href="http://redirect.cvrve.me/355b27aa49613754bd24?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **nCino** | Associate Software Engineer | Wilmington, NC | <a href="http://redirect.cvrve.me/b40bf53c0c5f830943d5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| **Better Being** | Software Engineer | Ogden, UT | <a href="http://redirect.cvrve.me/f075c7b59a9c6571aab7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | **Tesla** | Frontend Software Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/a7a06702af317377836a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Salesforce** | New Grad: Machine Learning Engineer | Dallas, TX</br>Atlanta, GA</br>Indianapolis, IN | <a href="http://redirect.cvrve.me/dbc753b094c552f44449?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | **Qualcomm** | GPU Compiler Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/14abe0912fc011fca291?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
