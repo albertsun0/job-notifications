@@ -188,7 +188,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Squarespace** | Software Engineer – New Graduate - Java | NYC | 🔒 | Oct 24 |
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - CUDA Driver | Santa Clara, CA | 🔒 | Oct 23 |
 | **[HeyGen](https://simplify.jobs/c/HeyGen)** | Software Engineer – University Graduate | <details><summary>**4 locations**</summary>Palo Alto, CA</br>Toronto, ON, Canada</br>SF</br>LA</details> | <a href="https://job-boards.greenhouse.io/heygen/jobs/4546885007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d77772a3-fe1a-4758-be2e-00c66afa4864?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 22 |
-| **[Hallow](https://simplify.jobs/c/Hallow)** | Junior Backend Developer | Chicago, IL | <a href="https://jobs.lever.co/hallow/e14361be-5685-48a9-a537-b44a80f10829/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bf1f59b-a19e-4586-8296-1e8a3d578dda?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 22 |
+| **Hallow** | Junior Backend Developer | Chicago, IL | 🔒 | Oct 22 |
 | **Recast** | Junior Customer Data Scientist | Remote in USA | 🔒 | Oct 21 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Palo Alto, CA | 🔒 | Oct 21 |
 | **Old Mission** | College Graduates - Full-Time - Junior Full-Stack Engineer - 2025 | Chicago, IL | 🔒 | Oct 21 |
