@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: Developer Technology Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/ae197bbc15276ecefef7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Code Coverage Tools | Santa Clara, CA | <a href="http://redirect.cvrve.me/0cff372fecaf0c90736f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | **Western Digital** | New Grad 2025: Quality Assurance Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/11ba063441d4b527296b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Tesla** | Software Engineer, Frontend Vision Systems | Fremont, CA | <a href="http://redirect.cvrve.me/b5b9765927eb1ad8978b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
