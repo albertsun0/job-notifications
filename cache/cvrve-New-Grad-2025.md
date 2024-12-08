@@ -61,7 +61,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Spotify** | Backend Engineer, Audiobooks | New York, NY</br>Boston, MA | <a href="http://redirect.cvrve.me/1a7a93ba214ad69924da?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **Snap** | Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/114a180a1e4b73dc87d9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| **Scale AI** | New Grad: Forward Deployed Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/fe52164598a6b7e576cf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| **Raytheon** | New Grad 2025: Software Engineer I 🇺🇸 | McKinney, TX | <a href="http://redirect.cvrve.me/feb07e987caa3bba7f5c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **NVIDIA** | New Grad 2025: Developer Technology Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/ae197bbc15276ecefef7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
+| **Grafana Labs** | Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/b8872d0a3f406ca14f0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **Aurora** | Software Engineer I | Pittsburgh, PA | <a href="http://redirect.cvrve.me/76fc393804bb1be5b1a2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **NVIDIA** | New Grad 2025: Software Engineer, Code Coverage Tools | Santa Clara, CA | <a href="http://redirect.cvrve.me/0cff372fecaf0c90736f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 06 |
 | **Western Digital** | New Grad 2025: Quality Assurance Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/11ba063441d4b527296b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
