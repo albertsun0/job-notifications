@@ -375,7 +375,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Microsoft** | New Grad: Software Engineer I 🛂 | Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1752115/Software-Engineer-I?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Gecko Robotics** | New Grad: Forward Deployed Software Engineer | New York, NY | <a href="https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **GE** | New Grad: Software Engineering Specialist | Bothell, WA | <a href="https://jobs.gecareers.com/vernova/global/en/job/GE11GLOBALR3780698EXTERNALENGLOBAL/Software-Engineering-Specialist?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
-| **Doordash** | New Grad: Software Engineer, Frontend | <details><summary>**4 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | <a href="https://boards.greenhouse.io/doordash/jobs/5630448?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Aquatic** | New Grad: Software Engineer | Chicago, IL</br>New York, NY | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Accenture Federal Services** | New Grad 2025: Software Engineering Analyst | Washington, DC | <a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4400733006?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 08 |
 | **Microsoft** | New Grad: Software Engineer | Cambridge, MA | <a href="https://jobs.careers.microsoft.com/us/en/job/1750061/Software-Engineer-Microsoft-AI-Development-Acceleration-Program-Cambridge?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 07 |
@@ -689,6 +688,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Marigold** | New Grad: Software Engineer | Remote | 🔒 | Sep 08 |
 | **Macquarie** | New Grad: Software Engineer | New York, NY | 🔒 | Sep 08 |
 | **ICF** | New Grad: Software Developer 🇺🇸 | Arlington, VA | 🔒 | Sep 08 |
+| **Doordash** | New Grad: Software Engineer, Frontend | <details><summary>**4 locations**</summary>New York, NY</br>San Francisco, CA</br>Sunnyvale, CA</br>Seattle, WA</details> | 🔒 | Sep 08 |
 | **Disney** | New Grad: Software Engineer I | Santa Monica, CA</br>Bristol, CT | 🔒 | Sep 08 |
 | **Bread Financial** | New Grad: Software Engineer | <details><summary>**6 locations**</summary>Columbus, OH</br>Chadds Ford, PA</br>Coeur D'Alene, ID</br>Draper, UT</br>Plano, TX</br>Wilmington, DE</details> | 🔒 | Sep 08 |
 | **Bae Systems** | New Grad: Test Design Engineer 🇺🇸 | Austin, TX | 🔒 | Sep 08 |
