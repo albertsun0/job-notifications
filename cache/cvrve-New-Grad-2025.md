@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Prelim** | Software Engineer, Product | Remote</br>US | <a href="http://redirect.cvrve.me/48279eae607fc94202f5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
 | **Spotify** | Backend Engineer, Audiobooks | New York, NY</br>Boston, MA | <a href="http://redirect.cvrve.me/1a7a93ba214ad69924da?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **Snap** | Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/114a180a1e4b73dc87d9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **Scale AI** | New Grad: Forward Deployed Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/fe52164598a6b7e576cf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
