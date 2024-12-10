@@ -116,7 +116,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Booz Allen** | Data Scientist - Junior | San Diego, CA | 🔒 | Nov 13 |
 | **Spotify** | Backend Engineer I - Markets & Subscriptions | London, UK | 🔒 | Nov 13 |
 | **[Icon](https://simplify.jobs/c/Icon-Me)** | Founding Research Engineer - Generative video/audio models | NYC | <a href="https://jobs.ashbyhq.com/icon/8b5647c5-cd74-49d0-9198-731704d96e3f/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5733231a-1b18-400e-bcb8-12726e7daeeb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 13 |
-| **[Icon](https://simplify.jobs/c/Icon-Me)** | Founding Engineer - Product | NYC | <a href="https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c4aec780-61d3-46a3-a8db-211c9eced1f4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 13 |
+| **Icon** | Founding Engineer - Product | NYC | 🔒 | Nov 13 |
 | **esri** | Software Engineer I - Generative AI & Assistants | West Redlands, Redlands, CA | 🔒 | Nov 13 |
 | **[Here](https://simplify.jobs/c/Here-io)** | Junior Full Stack Engineer | NYC | <a href="https://boards.greenhouse.io/hereio/jobs/6392785?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/10449f01-18db-4de8-b8a4-83b50c012562?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 13 |
 | **[Conde Nast](https://simplify.jobs/c/Conde-Nast)** | Data Engineer I | NYC | <a href="https://condenast.wd5.myworkdayjobs.com/en-US/CondeCareers/job/1-World-Trade-Center-New-York-NY/Data-Engineer-I_R-17924-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/65734fda-2139-4fc5-87dd-36e4a592dc9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 13 |
@@ -213,7 +213,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Signify Health** | Data Software Engineer I | Remote in USA | 🔒 | Oct 17 |
 | **Applied Materials** | 2025 University Graduate - Software Engineer - Bachelor's Degree | Santa Clara, CA | 🔒 | Oct 17 |
 | **ManTech** | Junior Software Engineer | Chantilly, VA | 🔒 | Oct 16 |
-| **[WeRide](https://simplify.jobs/c/WeRide)** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | <a href="https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89936ca8-3004-4613-9cbc-677a399096c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 16 |
+| **WeRide** | New Grads 2025 - Software Engineer - Computer Vision/Deep Learning | San Jose, CA | 🔒 | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | Seattle, WA</br>San Jose, CA | 🔒 | Oct 16 |
 | **Adobe** | 2025 University Graduate - Software Development Engineer | San Jose, CA | 🔒 | Oct 16 |
 | **Splunk** | C++ Software Engineer – Early Career - Boulder - CO - January 2025 or sooner start date | Boulder, CO | 🔒 | Oct 15 |
@@ -402,7 +402,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Vectra](https://simplify.jobs/c/Vectra)** | Software Engineer – New College Graduate | Austin, TX</br>Remote in USA | <a href="https://boards.greenhouse.io/vectranetworks/jobs/6142089?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9a63bd39-e642-47f1-b2af-0665cb194cac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 21 |
 | **Qloo** | Junior Data Engineer | NYC | 🔒 | Aug 21 |
 | **Hudson River Trading** | Software Engineer – 2025 Grads - C++ | NYC | 🔒 | Aug 19 |
-| **[Figma](https://simplify.jobs/c/Figma)** | Software Engineer – Early Career - 2025 | SF</br>NYC | <a href="https://job-boards.greenhouse.io/figma/jobs/5227935004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b94c2b4c-d3ba-4672-8310-8374cade8a24?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 19 |
+| **Figma** | Software Engineer – Early Career - 2025 | SF</br>NYC | 🔒 | Aug 19 |
 | **Figma** | Data Scientist – Early Career - 2025 | SF</br>NYC | 🔒 | Aug 19 |
 | **Verkada** | Embedded Software Engineer – University Graduate 2025 | San Mateo, CA | 🔒 | Aug 19 |
 | **NVIDIA** | Deep Learning Compiler Engineer – New College Grad 2024 - Autonomous Vehicles | Austin, TX</br>Redmond, WA</br>Santa Clara, CA | 🔒 | Aug 17 |
