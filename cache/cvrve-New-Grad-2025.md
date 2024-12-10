@@ -59,6 +59,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Westinghouse** | New Grad 2025: Software Engineer | Cranberry Township, PA | <a href="http://redirect.cvrve.me/a0ca32c300c17b542c5c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
+| **TikTok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/85cb9e4109ecf9646c6e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **Prelim** | Software Engineer, Product | Remote</br>US | <a href="http://redirect.cvrve.me/48279eae607fc94202f5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
 | **Spotify** | Backend Engineer, Audiobooks | New York, NY</br>Boston, MA | <a href="http://redirect.cvrve.me/1a7a93ba214ad69924da?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
 | **Snap** | Software Engineer | Boulder, CO | <a href="http://redirect.cvrve.me/114a180a1e4b73dc87d9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 07 |
