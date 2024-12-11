@@ -59,6 +59,16 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Stats Perform** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/3e15c26cef040aad81b5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Arrive Logistics** | Associate Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/8e38bce74fa9f5d65cb0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Amazon** | New Grad 2025: Software Dev Engineer, Annapurna ML | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/dac5b99ecf600606eded?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Amazon** | New Grad 2025: Software Dev Engineer, Annapurna Labs | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/ae698b80ada085781751?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Amazon** | New Grad 2025: Software Development Engineer I, DynamoDB | Seattle, WA</br>Bellevue, WA</br>Redmond, WA | <a href="http://redirect.cvrve.me/c685aff421b9f15eb95a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Amazon** | New Grad 2025: Software Development Engineer I, Redshift | Seattle, WA</br>Redmond, WA</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/a4796883f61848282df6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Amazon** | New Grad 2025: Software Development Engineer I | <details><summary>**4 locations**</summary>Austin, TX</br>Seattle, WA</br>Redmond, WA</br>Palo Alto, CA</details> | <a href="http://redirect.cvrve.me/a682c01c8328bd436aa5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Alo Yoga** | Software Engineer | San Ramon, CA | <a href="http://redirect.cvrve.me/8ee967298faf2fc0e4df?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Acorns** | New Grad: Software Engineer I | Irvine, CA</br>New York, NY</br>Remote | <a href="http://redirect.cvrve.me/f3b8c6b775bfaaaa56a1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
+| **Abbott** | Firmware Engineer I | Sylmar, CA | <a href="http://redirect.cvrve.me/28671a057980561aa180?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Westinghouse** | New Grad 2025: Software Engineer | Cranberry Township, PA | <a href="http://redirect.cvrve.me/a0ca32c300c17b542c5c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **TikTok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/85cb9e4109ecf9646c6e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 09 |
 | **Prelim** | Software Engineer, Product | Remote</br>US | <a href="http://redirect.cvrve.me/48279eae607fc94202f5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 08 |
