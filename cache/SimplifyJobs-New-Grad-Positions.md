@@ -237,7 +237,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Affirm** | Software Engineer I | Remote in Canada | 🔒 | Oct 09 |
 | **Universal Music Group** | Junior Software Developer | NYC | 🔒 | Oct 09 |
 | **Codazen** | Full-Stack Engineer Summer 2025 New Grad | Irvine, CA | 🔒 | Oct 08 |
-| **[Spotify](https://simplify.jobs/c/Spotify)** | Junior Backend Engineer - Content Catalog | London, UK | <a href="https://jobs.lever.co/spotify/934ede25-003a-4af6-84ee-a8dc5555f243/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/629cafe7-a191-416e-908a-fea248a8a65d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
+| **Spotify** | Junior Backend Engineer - Content Catalog | London, UK | 🔒 | Oct 08 |
 | **[Dev Technology Group](https://simplify.jobs/c/DevTechGrp)** | Junior Full Stack React/Node.js Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/devtechnology/jobs/7615403002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/3049464d-b65b-427f-88d8-a7cf13f406ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 08 |
 | **Flexport** | Software Engineer I - Forwarding Applications | Bellevue, WA | 🔒 | Oct 07 |
 | **Geico** | Engineer I - Software Engineer | Bethesda, MD | 🔒 | Oct 07 |
