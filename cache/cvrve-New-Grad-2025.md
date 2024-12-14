@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: Developer Technology Engineer, Public Sector | Santa Clara, CA | <a href="http://redirect.cvrve.me/4c41cc19ccf3976ebf6a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
+| **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/b360c18687d220aa73d8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
+| **NVIDIA** | New Grad 2024: GPU Architecture Engineer | Santa Clara, CA</br>Austin, TX</br>Durham, NC | <a href="http://redirect.cvrve.me/b08828a3f06b045ab018?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | **Stats Perform** | Software Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/3e15c26cef040aad81b5?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Arrive Logistics** | Associate Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/8e38bce74fa9f5d65cb0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
 | **Amazon** | New Grad 2025: Software Dev Engineer, Annapurna ML | Seattle, WA</br>Cupertino, CA | <a href="http://redirect.cvrve.me/dac5b99ecf600606eded?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 11 |
