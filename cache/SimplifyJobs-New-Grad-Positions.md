@@ -116,7 +116,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **ConnectWise** | Software Engineer I | Florida | 🔒 | Nov 20 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer - Recent College Graduate | San Francisco, CA | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | **Nike** | Software Engineer I | Beaverton, OR | 🔒 | Nov 19 |
-| **[PVM](https://simplify.jobs/c/PVM,-Inc.)** | Junior Full Stack Developer | Remote in USA | <a href="https://job-boards.greenhouse.io/pvminc/jobs/4586078007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/eaaa11d3-0b7a-4dfd-94dd-4563ac725209?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 19 |
+| **PVM** | Junior Full Stack Developer | Remote in USA | 🔒 | Nov 19 |
 | **Salesforce** | Associate Data Scientist – New Grad - Data & Analytics | Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA | 🔒 | Nov 19 |
 | **[Kikoff](https://simplify.jobs/c/Kikoff)** | Software Engineer – Recent College Graduate | SF | <a href="https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/27cc8c3f-c592-4e44-a1dc-093891d04163?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 18 |
 | **USAA** | Data Engineer I | Remote in USA | 🔒 | Nov 18 |
@@ -184,7 +184,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Northridge - CA | Northridge, LA | 🔒 | Oct 31 |
 | **esri** | Software Development Engineer I - Arcgis Video Server & Mission Server | Vienna, VA | 🔒 | Oct 31 |
 | **Splunk** | Software Engineer - Frontend - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | 🔒 | Oct 30 |
-| **Splunk** | Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | 🔒 | Oct 30 |
+| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career - Vancouver - Bc - Jan 2025 or sooner start date | Vancouver, BC, Canada | <a href="https://jobs.jobvite.com/splunk-careers/job/oxpLufwV?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0cbafbb6-2529-4080-8b8a-79b6ce3dcead?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
 | **[MSD](https://simplify.jobs/c/175953b9-17d1-4a2f-b0af-b77706477183)** | Junior Data Engineer | San Jose, CA | <a href="https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Junior-Data-Engineer_R317497?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b52aea29-c9a8-4a3a-920f-378643b72df5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 30 |
 | **Two Six Technologies** | Junior Software Engineer | Cherry Hills Village, CO | 🔒 | Oct 30 |
 | **Two Six Technologies** | Junior Software Engineer | Reston, VA | 🔒 | Oct 30 |
@@ -366,7 +366,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[NewsBreak](https://simplify.jobs/c/NewsBreak)** | Software Engineer (Junior & New Grad) | Mountain View, CA | <a href="https://job-boards.greenhouse.io/newsbreak/jobs/4054592006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 05 |
 | **Wiley Edge** | Développeur génie logiciel / Junior Software Developer - Canada - Montreal | Montreal, QC, Canada | 🔒 | Sep 05 |
 | **Nutanix** | Early Career / Software Engineer 2 - Cdp | San Jose, CA | 🔒 | Sep 05 |
-| **[Pylon](https://simplify.jobs/c/Pylon)** | New grad – Software Engineer | SF | <a href="https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f2019b56-ba55-41fa-af52-f5aa7dad80a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Sep 05 |
+| **Pylon** | New grad – Software Engineer | SF | 🔒 | Sep 05 |
 | **ServiceNow** | Utg – New College Grad - Software Engineer | Santa Clara, CA | 🔒 | Sep 05 |
 | **Anyscale** | Software Engineer – New Grad 2025 | SF | 🔒 | Sep 05 |
 | **PolicyMe** | Junior Software Engineer - Remote | Remote in Canada | 🔒 | Sep 04 |
