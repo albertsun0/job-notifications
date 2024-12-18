@@ -59,6 +59,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **NVIDIA** | New Grad 2025: Developer Technology Engineer, CPU Performance | Santa Clara, CA | <a href="http://redirect.cvrve.me/e74906a9bca9500d0b91?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
+| **Dagster Labs** | New Grad 2025: Software Engineer | <details><summary>**4 locations**</summary>Minneapolis, MN</br>San Francisco, CA</br>New York, NY</br>Remote</details> | <a href="http://redirect.cvrve.me/b8daa42bade8a4e555d2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 17 |
 | **Uber** | New Grad 2025: Software Engineer I | San Francisco, CA | <a href="http://redirect.cvrve.me/3516660a69ca09feb2df?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 15 |
 | **NVIDIA** | New Grad 2025: Developer Technology Engineer, Public Sector | Santa Clara, CA | <a href="http://redirect.cvrve.me/4c41cc19ccf3976ebf6a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
 | **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/b360c18687d220aa73d8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 13 |
