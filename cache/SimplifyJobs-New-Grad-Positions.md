@@ -66,7 +66,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Qualtrics** | Software Engineer I - XM | Provo, UT | 🔒 | Dec 16 |
 | **Uber** | 2025 Graduate Software Engineer I |  | 🔒 | Dec 14 |
 | **Uber** | 2025 Graduate Software Engineer I | SF | 🔒 | Dec 14 |
-| **[Parsons](https://simplify.jobs/c/Parsons)** | Junior Software Developer - Java/C# | Scott AFB, IL</br>United States | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Scott-AFB/Junior-Software-Developer---Java-C---Hybrid-_R162017?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/99de0caa-f47b-4557-90e2-a67292ba6436?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 13 |
+| **Parsons** | Junior Software Developer - Java/C# | Scott AFB, IL</br>United States | 🔒 | Dec 13 |
 | **[Twitch](https://simplify.jobs/c/Twitch)** | Software Engineer I | Seattle, WA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7766033002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1198ad12-aa89-4c98-a540-1c061c867d9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 13 |
 | **[Cape](https://simplify.jobs/c/Cape)** | New College Graduate - Software Engineer | NYC | <a href="https://jobs.ashbyhq.com/cape/bd280ded-4298-47de-a186-1aebd1bd94b8/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c7b67a0d-b856-4a1a-bb89-267aa0fad336?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Dec 13 |
 | **Vertex** | Software Developer – New Grad | Remote in USA</br>Remote in Canada | 🔒 | Dec 12 |
@@ -206,7 +206,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Mastercard** | Software Engineer I | O'Fallon, MO</br>Remote in USA | 🔒 | Oct 28 |
 | **Northrop Grumman** | Junior Software Engineer | Annapolis Junction, MD | 🔒 | Oct 25 |
 | **MSD** | Junior Data Engineer | San Jose, CA | 🔒 | Oct 25 |
-| **[LexisNexis Risk Solutions](https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76)** | Tech Accelerate Graduate Program-Software Engineer I | Georgia</br>Alpharetta, GA | <a href="https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Accelerate-Tech-Graduate-Program--Software-Engineer-I_R83206?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/80a6773d-3e13-41f3-bbe6-0c433b2c2175?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 25 |
+| **LexisNexis Risk Solutions** | Tech Accelerate Graduate Program-Software Engineer I | Georgia</br>Alpharetta, GA | 🔒 | Oct 25 |
 | **Expedia Group** | Software Development Engineer I - Workday | Seattle, WA | 🔒 | Oct 25 |
 | **Trellix** | Junior Software Engineer | Aylesbury, UK | 🔒 | Oct 25 |
 | **Nextdoor** | Software Engineer – New Grad 2025 | SF | 🔒 | Oct 25 |
