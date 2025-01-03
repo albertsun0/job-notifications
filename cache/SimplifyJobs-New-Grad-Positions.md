@@ -211,7 +211,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[ClearEdge](https://simplify.jobs/c/ClearEdge)** | Software Engineer I | Annapolis Junction, MD | <a href="https://jobs.lever.co/clearedge/bf3aaaa5-0534-4f0c-93e5-7e071e257522/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cd7acb67-1126-4c0f-8c06-7e96c236dc89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
 | **[ClearEdge](https://simplify.jobs/c/ClearEdge)** | Software Engineer I 🛂 | San Fransisco | <a href="https://jobs.ashbyhq.com/Crusoe/80c4152c-a400-4ebd-ad6f-8a98a26bc65d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | **Booz Allen** | Data Scientist - Junior | Honolulu, HI | 🔒 | Oct 29 |
-| **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds)** | Backend Engineer I - Customer Experience | Remote in USA | <a href="https://jobs.lever.co/includedhealth/843a62b0-af91-4dc3-8b4c-67aef79d1304/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b6a09598-febb-4d18-9df7-c89d7413e5ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 29 |
+| **Grand Rounds** | Backend Engineer I - Customer Experience | Remote in USA | 🔒 | Oct 29 |
 | **Mastercard** | Software Engineer I | O'Fallon, MO</br>Remote in USA | 🔒 | Oct 28 |
 | **Northrop Grumman** | Junior Software Engineer | Annapolis Junction, MD | 🔒 | Oct 25 |
 | **MSD** | Junior Data Engineer | San Jose, CA | 🔒 | Oct 25 |
@@ -234,8 +234,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Recast** | Junior Customer Data Scientist | Remote in USA | 🔒 | Oct 21 |
 | **Palantir** | Forward Deployed Software Engineer – New Grad - US Government | Palo Alto, CA | 🔒 | Oct 21 |
 | **Old Mission** | College Graduates - Full-Time - Junior Full-Stack Engineer - 2025 | Chicago, IL | 🔒 | Oct 21 |
-| **Samsara** | Software Engineer – New Grad - US | Remote in USA | 🔒 | Oct 21 |
-| **Samsara** | Software Engineer – New Grad - Canada | Remote in Canada | 🔒 | Oct 21 |
+| **[Samsara](https://simplify.jobs/c/Samsara)** | Software Engineer – New Grad - US | Remote in USA | <a href="https://www.samsara.com/company/careers/roles/6294998?gh_jid=6294998&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/f095768b-40f5-45a6-bc3b-dc38eea33fbf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 21 |
+| **[Samsara](https://simplify.jobs/c/Samsara)** | Software Engineer – New Grad - Canada | Remote in Canada | <a href="https://www.samsara.com/company/careers/roles/6340273?gh_jid=6340273&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/87cd4482-91d7-4f32-819b-f5e8bd26472b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 21 |
 | **Grand Rounds** | Android Engineer – 2024 New Grad - Treat Team | Remote in USA | 🔒 | Oct 18 |
 | **Splunk** | Fedramp Software Engineer – Early Career - Boulder - CO - Jan 2025 Start - US Citizens ONLY | Boulder, CO | 🔒 | Oct 17 |
 | **Adobe** | 2025 University Graduate - Software Engineer | San Jose, CA | 🔒 | Oct 17 |
@@ -441,7 +441,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2025: Software Engineer - Backend | New York City, New York | <a href="https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **[Ramp](https://simplify.jobs/c/Ramp)** | New Grad 2025: Software Engineer - Frontend | New York City, New York | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
 | **[Codeium](https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf)** | AI Product Engineer (New Grad) | Mountain VIew, CA | <a href="https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 13 |
-| **Radiant** | Software Engineer – New Graduates | El Segundo, CA | 🔒 | Aug 12 |
+| **[Radiant](https://simplify.jobs/c/Radiant)** | Software Engineer – New Graduates | El Segundo, CA | <a href="https://job-boards.greenhouse.io/radiant/jobs/4460385005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/cbfa5543-1f6a-40a1-b323-9cbf8b20844a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 12 |
 | **Whoop** | Software Engineer I - Backend - Personalization & Progress | Boston, MA | 🔒 | Aug 12 |
 | **Belvedere Trading** | Quantitative Trader – Entry Level 2025 | Chicago, IL | 🔒 | Aug 09 |
 | **Belvedere Trading** | Software Engineer – Entry Level 2025 | Chicago, IL | 🔒 | Aug 09 |
