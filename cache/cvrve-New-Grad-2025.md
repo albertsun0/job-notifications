@@ -59,6 +59,15 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tower Research Capital** | Software Engineer I | Charleston, SC | <a href="http://redirect.cvrve.me/07ae88794a35595b698c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **NCR Voyix** | Software Engineer I | Atlanta, GA | <a href="http://redirect.cvrve.me/854b0911f052e3dc0aa2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **NCR Voyix** | Software Engineer | Atlanta, GA | <a href="http://redirect.cvrve.me/0206b41433c7f859203d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **Honda** | New Grad 2025: Engineering Development Program 🛂 | Marysville, OH | <a href="http://redirect.cvrve.me/37e0e365a7a904c0d564?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **Cubic Defense** | Associate Software Engineer 🇺🇸 | San Diego, CA | <a href="http://redirect.cvrve.me/4d21eadc940f5059b635?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **CSI** | Software Engineer I | Amarillo, TX</br>Remote</br>US | <a href="http://redirect.cvrve.me/f3af55fe6f4601c4d3ef?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **AutoStore** | New Grad 2025: Software Engineer | Denver, CO | <a href="http://redirect.cvrve.me/858701e0e37508ce6e6b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **Arrive Logistics** | Associate Software Engineer | Chicago, IL | <a href="http://redirect.cvrve.me/a14e1f007e1ec9b6d557?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
+| **Apple** | Embedded SoC Driver Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/7f08b25f3f2d6fa3ecb0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 06 |
 | **Microsoft** | Software Engineer - Fullstack | Multiple Locations | <a href="http://redirect.cvrve.me/45ea1c2c6312b6af4a0e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Security | Redmond, WA | <a href="http://redirect.cvrve.me/d197835f95f610b0e631?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
 | **Microsoft** | Software Engineer - Fullstack | Atlanta, GA | <a href="http://redirect.cvrve.me/838e092b4a4b9139f38f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 02 |
