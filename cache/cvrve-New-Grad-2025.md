@@ -59,6 +59,11 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Spotify** | Data Scientist I | New York, NY | <a href="http://redirect.cvrve.me/48409a094f3a111688af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
+| **ServiceNow** | New Grad: Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/344cf8e06977db1ddc09?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
+| **ServiceNow** | Associate Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/d0f91295fd03d292bd0e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
+| **Levels.fyi** | Backend Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/3920b5384687c6d8fefc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
+| **Alloy** | Junior Full Stack Engineer, Operate | New York, NY | <a href="http://redirect.cvrve.me/a3fa9447f66d773e811e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **Vivint** | Software Engineer, iOS | Salt Lake City, UT | <a href="http://redirect.cvrve.me/3a62822bb20452ed09ad?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **T-Mobile** | Software Engineer | Bellevue, WA</br>Denver, CO</br>Frisco, TX | <a href="http://redirect.cvrve.me/465babd584c380b588b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
 | **Brooks** | Software Engineer | Chelmsford, MA | <a href="http://redirect.cvrve.me/4743b03ceb5911c6697d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 07 |
