@@ -59,6 +59,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Calfus** | Software Engineer – Generative AI | Pleasanton, CA | <a href="http://redirect.cvrve.me/ea46e8929c840c3d56e2?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 10 |
 | **Spotify** | Data Scientist I | New York, NY | <a href="http://redirect.cvrve.me/48409a094f3a111688af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **ServiceNow** | New Grad: Software Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/344cf8e06977db1ddc09?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
 | **ServiceNow** | Associate Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/d0f91295fd03d292bd0e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 09 |
