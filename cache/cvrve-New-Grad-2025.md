@@ -59,6 +59,9 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, Digital Products Engineering | Fremont, CA | <a href="http://redirect.cvrve.me/c691242915829b93ae33?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| **NVIDIA** | New Grad 2025: System Software Engineer, Autonomous Vehicles | Santa Clara, CA | <a href="http://redirect.cvrve.me/1c7dad98a58911f016cb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
+| **NVIDIA** | New Grad 2025: Graphics Architect, Hardware - Masters | Santa Clara, CA | <a href="http://redirect.cvrve.me/b01cdabceb90f126f8ae?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 21 |
 | **Capital One** | New Grad 2025: Product Development Program Associate 🛂 | Plano, TX</br>Richmond, VA</br>Chicago, IL | <a href="http://redirect.cvrve.me/0e157d5ed7a7f6799bbd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 17 |
 | **Whoop** | Android Engineer I | Boston, MA | <a href="http://redirect.cvrve.me/184e401798eabc571af3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
 | **Vertafore** | Software Engineer I | Melville, NY | <a href="http://redirect.cvrve.me/2e2a563b61ad7988983a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 16 |
