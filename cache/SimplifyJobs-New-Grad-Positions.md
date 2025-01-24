@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00151947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d069a687-64cf-4c11-8073-aa916d09ea1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **[Remitly](https://simplify.jobs/c/Remitly)** | Software Development Engineer I - Global Network | Seattle, WA | <a href="https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Global-Network_R_103328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89fc004b-384b-438e-be7e-0f164f04f71e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Engineer C/C++ | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-C-C--_R0133510?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/83bc8321-7068-4e94-beb9-dba482000637?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **Medtronic** | Software Engineer I - Neuro Science | Minneapolis, MN | 🔒 | Jan 22 |
@@ -153,7 +154,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Twitch** | Software Engineer I - IOS | SF | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | Seattle, WA | 🔒 | Nov 23 |
 | **Twitch** | Software Engineer I - IOS | NYC | 🔒 | Nov 23 |
-| **[Horace Mann](https://simplify.jobs/c/727e9c32-2e2f-4325-819c-ef2ee50dffdb)** | Software Engineer I | Springfield, IL | <a href="https://boards.greenhouse.io/horacemannservicecorporation/jobs/5366274004?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6f7a550e-0a5c-4b80-9544-e4564a913655?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 22 |
+| **Horace Mann** | Software Engineer I | Springfield, IL | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **PlayStation Global** | Junior Server Software Engineer | London, UK | 🔒 | Nov 22 |
 | **Hootsuite** | Junior Software Developer - Devops | Calgary, AB, Canada</br>Edmonton, AB, Canada</br>Vancouver, BC, Canada | 🔒 | Nov 22 |
