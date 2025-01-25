@@ -23,7 +23,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			<br>
 			<div>
 			<a href="https://swelist.com">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+          <img src="https://i.imgur.com/u7xWcQi.png" width="400" alt="Email">
         </a>
 			</div>
 		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
@@ -62,6 +62,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **[Acorns](https://simplify.jobs/c/Acorns)** | Software Engineer I, Recent Graduate 🛂 | Remote | <a href="https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 25 |
 | **[Mintel](https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa)** | Software Engineer I | Chicago, IL | <a href="https://www.mintel.com/job/6568674?gh_jid=6568674&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/538c586d-0214-4c66-9202-29dacb76e7ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 25 |
 | **[Expedia Group](https://simplify.jobs/c/Expedia-Group)** | Software Development Engineer I | London, UK | <a href="https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/Software-Development-Engineer-I_R-93355-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c17fa888-ec6a-43ee-ac94-927674f28b6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Bellevue, WA | 🔒 | Jan 24 |
@@ -69,7 +70,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Chewy** | Software Engineer I - Front End | Boston, MA | 🔒 | Jan 24 |
 | **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/ozijvfwp?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0147cd02-0888-4802-8dfa-aec8b56edc6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00151947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d069a687-64cf-4c11-8073-aa916d09ea1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
-| **[Remitly](https://simplify.jobs/c/Remitly)** | Software Development Engineer I - Global Network | Seattle, WA | <a href="https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Global-Network_R_103328?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/89fc004b-384b-438e-be7e-0f164f04f71e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
+| **Remitly** | Software Development Engineer I - Global Network | Seattle, WA | 🔒 | Jan 23 |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Engineer C/C++ | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-C-C--_R0133510?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/83bc8321-7068-4e94-beb9-dba482000637?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
 | **Medtronic** | Software Engineer I - Neuro Science | Minneapolis, MN | 🔒 | Jan 22 |
 | **[Acorns](https://simplify.jobs/c/Acorns)** | Software Engineer I – Recent Graduate | Irvine, CA | <a href="https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/20573663-a33b-497c-82d0-cf8091dc8725?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 22 |
