@@ -150,7 +150,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Adobe** | University Graduate - Software Engineer | SF</br>San Jose, CA | 🔒 | Dec 03 |
 | **Parsons** | Software Engineer 1 | Odenton, MD | 🔒 | Dec 03 |
 | **Spotify** | Data Engineer I - Licensing | Remote in USA | 🔒 | Dec 02 |
-| **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
+| **[PDI Technologies](https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea)** | Software Engineer I | Maidenhead, UK | <a href="https://jobs.lever.co/pditechnologies/10399232-feaf-46f7-af77-154c9ac6b046/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4278df4c-5b91-4c71-9c62-af9d7ab092af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Nov 29 |
 | **PDI Technologies** | Software Engineer I | Maidenhead, UK | 🔒 | Nov 29 |
 | **Okta** | Software Engineer – New Graduate - Android - Okta Personal | Toronto, ON, Canada | 🔒 | Nov 27 |
 | **Capital One** | Associate – New Grad - Software Engineer | Toronto, ON, Canada | 🔒 | Nov 26 |
@@ -275,7 +275,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Pax8** | Data Engineer I | United States | 🔒 | Oct 25 |
 | **Whoop** | Software Engineer I - Web - Growth | Boston, MA | 🔒 | Oct 25 |
 | **[DoorDash](https://simplify.jobs/c/DoorDash)** | Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025 | <details><summary>**5 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</br>Sunnyvale, CA</details> | <a href="https://boards.greenhouse.io/doordashusa/jobs/6330949?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/ac5b0ba5-ed4f-491a-9387-c354e4661e2f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 24 |
-| **DoorDash** | Software Engineer I – Entry Level - Fall 2024-Summer 2025 - Toronto | Toronto, ON, Canada | 🔒 | Oct 24 |
+| **[DoorDash](https://simplify.jobs/c/DoorDash)** | Software Engineer I – Entry Level - Fall 2024-Summer 2025 - Toronto | Toronto, ON, Canada | <a href="https://boards.greenhouse.io/doordashcanada/jobs/6346397?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5edec334-b85d-4c7f-98ed-2b4a890c45cc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Oct 24 |
 | **Brain Corp** | Software Engineer I - Applied Machine Learning | San Diego, CA | 🔒 | Oct 24 |
 | **Squarespace** | Software Engineer – New Graduate - Java | NYC | 🔒 | Oct 24 |
 | **NVIDIA** | System Software Engineer – New College Grad 2024 - CUDA Driver | Santa Clara, CA | 🔒 | Oct 23 |
@@ -529,7 +529,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Axle Health** | Software Engineer (New Grad) | Los Angeles, CA | <a href="https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 22 |
 | **Robinhood Careers** | Software Developer | Toronto, ON, Canada | 🔒 | Jul 17 |
 | **Microsoft** | Software Engineer | Redmond, Washington | 🔒 | Jul 16 |
-| **[Grand Rounds](https://simplify.jobs/c/Grand-Rounds)** | Software Engineer I - Orchestration Platform - Canada | Remote in Canada | <a href="https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/146ea259-126b-4e18-8753-a6d924f56f81?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jul 15 |
+| **Grand Rounds** | Software Engineer I - Orchestration Platform - Canada | Remote in Canada | 🔒 | Jul 15 |
 | **IXL Learning** | Software Engineer – New Grad | Raleigh, NC | 🔒 | Jul 15 |
 | **IXL Learning** | Software Engineer – New Grad | San Mateo, CA | 🔒 | Jul 15 |
 | **minware** | Junior Front End Engineer | Remote in USA | 🔒 | Jul 13 |
