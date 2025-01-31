@@ -59,6 +59,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Xerox** | Associate Software Engineer | Webster, NY | <a href="http://redirect.cvrve.me/dad226e56a57d31ad38b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
+| **Itential** | Software Development Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/6c74b8dd4b3cb98b9e95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
+| **First Resonance** | Forward Deployed Software Engineer | Los Angeles, CA | <a href="http://redirect.cvrve.me/2b5460034bff7f3f6b87?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
+| **Emerson** | Software Engineer | Austin, TX | <a href="http://redirect.cvrve.me/97e6e5350b139da22848?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **Verkada** | New Grad 2025: Software Engineer, Security | San Mateo, CA | <a href="http://redirect.cvrve.me/145a685db33aac97178f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Verkada** | New Grad 2025: Technical Support Engineer | San Mateo, CA | <a href="http://redirect.cvrve.me/f59840224506bb76a7b8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
 | **Twitch** | Software Engineer API Platform | San Francisco, CA | <a href="http://redirect.cvrve.me/628cfb73aa2a2deba8a4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 29 |
