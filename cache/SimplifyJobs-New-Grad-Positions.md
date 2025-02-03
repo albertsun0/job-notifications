@@ -82,7 +82,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Chewy** | Software Engineer I - Front End | Bellevue, WA | 🔒 | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Plantation, FL | 🔒 | Jan 24 |
 | **Chewy** | Software Engineer I - Front End | Boston, MA | 🔒 | Jan 24 |
-| **Splunk** | Software Engineer - Backend/Fullstack - Early in Career | Colorado</br>North Carolina | 🔒 | Jan 24 |
+| **[Splunk](https://simplify.jobs/c/Splunk)** | Software Engineer - Backend/Fullstack - Early in Career | Colorado</br>North Carolina | <a href="https://jobs.jobvite.com/splunk-careers/job/ozijvfwp?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0147cd02-0888-4802-8dfa-aec8b56edc6f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **[Leidos](https://simplify.jobs/c/Leidos)** | Software Engineer Junior | Alexandria, VA | <a href="https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00151947?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d069a687-64cf-4c11-8073-aa916d09ea1d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 24 |
 | **Remitly** | Software Development Engineer I - Global Network | Seattle, WA | 🔒 | Jan 23 |
 | **[Amentum](https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d)** | Entry Level Software Engineer C/C++ | Dahlgren, VA | <a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-C-C--_R0133510?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/83bc8321-7068-4e94-beb9-dba482000637?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 23 |
@@ -99,7 +99,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Leidos** | Junior Data Scientist | Remote in USA | 🔒 | Jan 15 |
 | **Global Payments** | Mainframe Software Engineer I | Columbus, GA | 🔒 | Jan 15 |
 | **Splunk** | Software Engineer - Frontend - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
-| **Splunk** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | 🔒 | Jan 15 |
+| **[Splunk](https://simplify.jobs/c/Splunk)** | C++ Software Engineer - Early in Career | Raleigh, NC</br>Boulder, CO | <a href="https://jobs.jobvite.com/splunk-careers/job/oMEfvfwU?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/637ee7c0-fbcb-4ea9-91c0-1727a53ee094?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 15 |
 | **Floqast** | Software Engineer I | Toronto, ON, Canada | 🔒 | Jan 15 |
 | **FOX** | Software Engineer I - Android | Sharonville, OH | 🔒 | Jan 14 |
 | **Adobe** | University Graduate - Software Engineer | Seattle, WA | 🔒 | Jan 14 |
