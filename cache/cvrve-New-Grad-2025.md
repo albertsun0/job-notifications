@@ -59,6 +59,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, Gateway | Palo Alto, CA | <a href="http://redirect.cvrve.me/e5f8647ddbdcf5dfe33c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **Softheon** | Software Engineer I - Membership | <details><summary>**5 locations**</summary>Pittsburgh, PA</br>Charlotte, NC</br>Philadelphia, PA</br>Baltimore, MD</br>Jacksonville, FL</details> | <a href="http://redirect.cvrve.me/d823e3beec392a04a853?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **Scale AI** | New Grad: Software Engineer, Security Engineer | San Francisco, CA | <a href="http://redirect.cvrve.me/7bcb553457e4b856ac4a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **CVS Health** | Associate Software Engineer | Irving, TX | <a href="http://redirect.cvrve.me/4b129ad68f5a1d951312?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **CVS Health** | Software Engineer | Irving, TX | <a href="http://redirect.cvrve.me/6e9bcae530ad36230429?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **Amentum** | Software Engineer 🇺🇸 | Fredericksburg, VA | <a href="http://redirect.cvrve.me/2c68793bad4121f6e8ee?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
+| **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | <a href="http://redirect.cvrve.me/c7f80d5c70784f874a9b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
 | **Xerox** | Associate Software Engineer | Webster, NY | <a href="http://redirect.cvrve.me/dad226e56a57d31ad38b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **Itential** | Software Development Engineer I | Remote</br>US | <a href="http://redirect.cvrve.me/6c74b8dd4b3cb98b9e95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
 | **First Resonance** | Forward Deployed Software Engineer | Los Angeles, CA | <a href="http://redirect.cvrve.me/2b5460034bff7f3f6b87?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jan 30 |
@@ -201,7 +208,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **HP** | Software Applications Engineer | Boise, ID</br>Alpharetta, GA | <a href="http://redirect.cvrve.me/4eec2adc611647cd28c3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Garmin** | Software Engineer I | Salem, OR | <a href="http://redirect.cvrve.me/71ad01511c56db80491f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **Codeium** | New Grad: Software Engineer | Mountain View, CA | <a href="http://redirect.cvrve.me/667e37260e86285ed052?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
-| **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | <a href="http://redirect.cvrve.me/e0b8af2618da574eada8?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 05 |
 | **J.P Morgan Chase** | New Grad 2025: Software Engineer 🛂 | <details><summary>**4 locations**</summary>Columbus, OH</br>Wilmington, DE</br>Plano, TX</br>Jersey City, NJ</details> | <a href="http://redirect.cvrve.me/5fc0247fb11e222f1ebb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | **J.P Morgan Chase** | New Grad 2025: Software Engineer 🛂 | <details><summary>**15 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</details> | <a href="http://redirect.cvrve.me/a0cb391f4342ae966f5b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
 | **General Atomics** | Associate Software Developer 🇺🇸 | Poway, CA | <a href="http://redirect.cvrve.me/ab9a7d5e96c0a3f41db4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Dec 03 |
@@ -558,6 +564,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Northwestern Mutual** | Software Engineer I | Milwaukee, WI | 🔒 | Dec 05 |
 | **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Dec 05 |
 | **Apple** | Software Engineer, Customer Feedback | Cupertino, CA | 🔒 | Dec 05 |
+| **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | 🔒 | Dec 05 |
 | **Adobe** | New Grad 2025: Software Engineer | San Jose, CA</br>San Francisco, CA | 🔒 | Dec 05 |
 | **xAI** | Software Engineer - Data Infrastructure | San Francisco, CA</br>Palo Alto, CA | 🔒 | Nov 28 |
 | **Lockheed Martin** | Early Career: Software Engineer 🇺🇸 | Owego, NY | 🔒 | Nov 26 |
