@@ -59,6 +59,21 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Whatnot** | New Grad 2025: Cloud Security Engineer | San Francisco, CA</br>Los Angeles, CA</br>New York, NY | <a href="http://redirect.cvrve.me/1fdf2c8417dff78daa67?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **TikTok** | New Grad 2025: Software Engineer | San Jose, CA | <a href="http://redirect.cvrve.me/cdd7bbeba61ff815e86a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Tesla** | Data Engineer, Battery Manufacturing Development | Palo Alto, CA | <a href="http://redirect.cvrve.me/9199e8cccd131766528e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Tesla** | DevOps Systems Engineer, Platform Storage Engineering | Palo Alto, CA | <a href="http://redirect.cvrve.me/c670e08ff108ba87e05c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Tesla** | Software Engineer, Tooling, Simulation | Palo Alto, CA | <a href="http://redirect.cvrve.me/96f1fe816efda76e9e83?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Qualcomm Technologies, Inc** | Windows on Snapdragon Software Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/7b000961915acc577ef6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Microsoft** | Software Engineer - Fullstack | Mountain View, CA | <a href="http://redirect.cvrve.me/93ed5b6acd699469732a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **D.E Shaw Research** | Software Developer Associate | New York, NY | <a href="http://redirect.cvrve.me/01f17d288eb66ddbd21d?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Apple** | Software Build Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/2fbb4568bf4b9e34fb49?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Apple** | Software Build Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/a7bda69a4cd607a9c8de?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Apple** | Tools and Automation Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/14dab656a2a841289b82?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Apple** | Photos Triage & Tooling Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/df2fb162ef7f99d246f6?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Apple** | Embedded Real Time Critical Control Firmware Engineer | Sunnyvale, CA | <a href="http://redirect.cvrve.me/35ac176926a031124cc7?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Amazon** | Software Development Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/3a609198bda6c125d174?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
+| **Amazon** | Systems Development Engineer I - Prime Video | Seattle, WA | <a href="http://redirect.cvrve.me/97fca2f4a78d61de0ac3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
 | **Microsoft** | New Grad: Software Engineer 🇺🇸 | Redmond, WA</br>Reston, VA | <a href="http://redirect.cvrve.me/60fe27c64f43bdb16921?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | **Jane Street** | Quantitative Trader | New York, NY | <a href="http://redirect.cvrve.me/2ad715cda4e86ad01e95?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 11 |
 | **Tesla** | Software Engineer, Gateway | Palo Alto, CA | <a href="http://redirect.cvrve.me/e5f8647ddbdcf5dfe33c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 05 |
