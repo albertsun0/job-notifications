@@ -59,6 +59,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **SoloSuit - YC** | Software Engineer | Remote</br>US | <a href="http://redirect.cvrve.me/cbff0da2c4e9afcec892?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Jacobs** | Software Engineer | Hudson, NH | <a href="http://redirect.cvrve.me/275e53683c9d5e4ac509?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Caterpillar** | Early Career Software Engineer | Chicago, IL</br>Peoria, IL</br>Irving, TX | <a href="http://redirect.cvrve.me/eaaf004ba4fd79e5e89f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="http://redirect.cvrve.me/9427b1d1979f96a9a048?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Apple** | Embedded Software Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/59724a712a5736bf40ef?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
+| **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="http://redirect.cvrve.me/3daf564db07362187b92?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **xAI** | Software Engineer | Memphis, TN</br>Palo Alto, CA | <a href="http://redirect.cvrve.me/1daaceb07c5f3a4db903?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | **Vanta** | Software Engineer, Entry Level | Remote</br>US | <a href="http://redirect.cvrve.me/557e8694609a141f367e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 17 |
 | **Whatnot** | New Grad 2025: Cloud Security Engineer | San Francisco, CA</br>Los Angeles, CA</br>New York, NY | <a href="http://redirect.cvrve.me/1fdf2c8417dff78daa67?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 16 |
