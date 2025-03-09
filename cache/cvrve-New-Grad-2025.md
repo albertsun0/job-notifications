@@ -59,6 +59,19 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **XPeng** | Machine Learning Engineer - LLM, AI & Robotics | Santa Clara, CA | <a href="http://redirect.cvrve.me/099645220beece312e77?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Tesla** | Frontend Engineer, Vehicle UI | Hawthorne, CA | <a href="http://redirect.cvrve.me/8c348d2a56476ea0874b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Spotify** | Machine Learning Engineer - Content Understanding | New York, NY | <a href="http://redirect.cvrve.me/70851fd3df79437e2dcf?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **SpaceX** | Software Engineer, Displays Software | Hawthorne, CA | <a href="http://redirect.cvrve.me/43a4a415a2b202339b34?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Silicon Labs** | Applications Engineer I | Austin, TX | <a href="http://redirect.cvrve.me/89180eb92aacdf32993e?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Raytheon** | New Grad 2025: Software Engineer I 🛂 | Fort Wayne, IN | <a href="http://redirect.cvrve.me/57672449d84750c050bd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **NVIDIA** | New Grad 2025: ASIC Design Efficiency Engineer | Santa Clara, CA | <a href="http://redirect.cvrve.me/f3b0b61fa17476994a1b?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **NVIDIA** | New Grad 2025: ASIC Verification Engineer, GPU | Santa Clara, CA</br>Austin, TX</br>Durham, NC | <a href="http://redirect.cvrve.me/d292f225584746bdb3d0?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Nike** | Software Engineer I | Beaverton, OR | <a href="https://careers.nike.com/software-engineer-i/job/R-45889?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Keysight** | R&D Software Engineer | Santa Rosa, CA</br>Everett, WA | <a href="http://redirect.cvrve.me/f2c9e20b1c94396ababd?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Exiger** | Software Engineer | Jersey City, NJ | <a href="http://redirect.cvrve.me/4d0f516262733a652312?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **AppLovin** | New Grad: Backend Engineer | Palo Alto, CA | <a href="http://redirect.cvrve.me/da75fe7c4d0dbb700541?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
+| **Amazon** | Front-End Engineer I | Seattle, WA | <a href="http://redirect.cvrve.me/289c13725f45024e5503?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 09 |
 | **Nominal** | New Grad 2025: Software Engineer 🛂 | New York, NY</br>Los Angeles, CA</br>Austin, TX | <a href="http://redirect.cvrve.me/d0be09910c29d0dd9f80?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 27 |
 | **USAA** | Entry Level Software Engineer | San Antonio, TX | <a href="http://redirect.cvrve.me/c99360b03ccccb77ae62?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
 | **TikTok** | Machine Learning Engineer - Content Ecology - Masters 🇺🇸 | San Jose, CA | <a href="http://redirect.cvrve.me/625fa9507ea61eeaf2b1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 25 |
