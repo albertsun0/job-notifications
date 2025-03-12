@@ -62,6 +62,20 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **RippleMatch** | Entry Level Software Engineer | NYC | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Boston, MA | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Houston, TX | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Chicago, IL | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | SF | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Philadelphia, PA | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Denver, CO | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Atlanta, GA | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | LA | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Austin, TX | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Washington, DC | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Minneapolis, MN | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | Dallas, TX | 🔒 | Mar 12 |
+| **RippleMatch** | Entry Level Software Engineer | San Jose, CA | 🔒 | Mar 12 |
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Data Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting?gh_jid=4538767005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/9ea74609-457f-4c34-b3fd-dd541284ae1a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[Mintel](https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa)** | Software Engineer I | Chicago, IL | <a href="https://www.mintel.com/job/6697491?gh_jid=6697491&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/157600ae-2405-41d5-b5c1-24db537c938f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
 | **[Onto Innovation](https://simplify.jobs/c/Onto-Innovation)** | Software Engineer 1 | Milpitas, CA | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Software-Engineer-1_R-4447?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/2520d7b3-f9a0-48af-bafc-172eea94afa5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 11 |
@@ -117,7 +131,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **The Trade Desk** | Software Engineer I - 2025 Start | SF | 🔒 | Feb 19 |
 | **Caterpillar Inc.** | Early Career Data Scientist / Technical Analyst | Peoria, IL</br>Chicago, IL | 🔒 | Feb 18 |
 | **Vanta** | Software Engineer – Entry Level | Remote in USA | 🔒 | Feb 14 |
-| **[PayScale](https://simplify.jobs/c/PayScale)** | Software Engineer I | Remote in USA | <a href="https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4bcdb1ec-2af2-48a8-93f6-577c1d850daf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 14 |
+| **PayScale** | Software Engineer I | Remote in USA | 🔒 | Feb 14 |
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Software Engineer I | Remote in Canada | <a href="https://www.coalitioninc.com/job-posting?gh_jid=4529304005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/6c230b52-2752-4356-ae54-f6fa42072bc1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 13 |
 | **[Coalition](https://simplify.jobs/c/Coalition)** | Software Engineer I | Remote in USA | <a href="https://www.coalitioninc.com/job-posting?gh_jid=4528287005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/1204a3e6-bb6a-4db3-a820-27dc60333e21?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 13 |
 | **Marqeta** | Software Engineer I - Continuous Integration Team | Remote in Canada | 🔒 | Feb 13 |
