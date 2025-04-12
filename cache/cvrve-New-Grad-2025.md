@@ -1,7 +1,7 @@
-# New Grad Positions by Cvrve
+# New Grad Positions by V
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 
-The list is maintained collaboratively by [Cvrve](https://cvrve.me), [WeCracked](https://wecracked.com/), and [Resumes.fyi](https://resumes.fyi/)!
+The list is maintained collaboratively by [WeCracked](https://wecracked.com/), and [Resumes.fyi](https://resumes.fyi/)!
 
 
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
@@ -59,6 +59,22 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Twitch** | Software Engineer | San Francisco, CA | <a href="https://job-boards.greenhouse.io/twitch/jobs/7950562002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Tesla** | Linux Site Reliability Engineer, IT Manufacturing Site Reliability Engineering | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/241276?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Tesla** | Software Engineer, AI Driven Test Automation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/235630?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Tesla** | Frontend Engineer, GenAI Model Evaluation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/frontend-engineer-genai-model-evaluation-226925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Tesla** | Software Engineer, Metrics, GenAI Model Evaluation | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/software-engineer-metrics-genai-model-evaluation-226926?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Tesla** | Software Engineer, Drivers & Control Plane, Dojo | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240828?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Softheon** | Software Engineer I - Membership | Remote</br>US | <a href="https://join.softheon.com/_/j/4AFE55D62D/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Playstation** | Software Engineer I | San Diego, CA | <a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5496919004?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **NVIDIA** | New Grad 2025: SRAM Circuit Design Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-Circuit-Design-Engineer---New-College-Grad-2025_JR1996520?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **NVIDIA** | New Grad 2025: SRAM CAD Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/SRAM-CAD-Engineer---New-College-Grad-2025_JR1996519?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Esri** | Backend Java Engineer I - Data Pipelines | Redlands, CA | <a href="https://www.esri.com/careers/4700976007?gh_jid=4700976007&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Crowdstrike** | Application Security Engineer I - Product Security | Remote</br>US | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-GB/crowdstrikecareers/job/USA---Remote/Engineer-I---Product-Security--Remote-_R22819?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Apollo** | Full Stack Engineer | El Segundo, California | <a href="https://athene.wd5.myworkdayjobs.com/en-US/Apollo_Careers/job/El-Segundo-California/Full-Stack-Engineer_R240715-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Amperity** | Software Development Engineer I | Seattle, WA | <a href="https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Amazon** | Systems Development Engineer, Mechatronics and Sustainable Packaging | Bellevue, WA | <a href="https://www.amazon.jobs/en/jobs/2953226/systems-development-engineer-mechatronics-and-sustainable-packaging?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
+| **Amazon** | Software Dev Engineer | <details><summary>**8 locations**</summary>Austin, TX</br>New York, NY</br>Seattle, WA</br>Culver City, CA</br>Santa Clara, CA</br>Bellevue, WA</br>Denver, CO</br>Palo Alto, CA</details> | <a href="https://www.amazon.jobs/en/jobs/2950609/software-dev-engineer-computer-science?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Palantir** | Deployment Strategist - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/4d35c1a0-bbb7-4e97-b989-3a294c8be078?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Palantir** | Forward Deployed Software Engineer - Build to Apply | New York, NY | <a href="https://jobs.lever.co/palantir/08de0376-68e1-460b-bd4c-42b57f8a0ecc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | **Synchrony** | Android Engineer I – Digital Servicing | <details><summary>**12 locations**</summary>Newport Beach, CA</br>Stamford, CT</br>Dallas, TX</br>Chicago, IL</br>Altamonte Springs, FL</br>Charlotte, NC</br>Alpharetta, GA</br>Rapid City, SD</br>New York, NY</br>Kansas City, KS</br>St Paul, MN</br>Cincinnati, OH</details> | <a href="https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
