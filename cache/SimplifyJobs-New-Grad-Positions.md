@@ -62,14 +62,17 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **[Flexport](https://simplify.jobs/c/Flexport)** | Software Engineer I | Bellevue, WA | <a href="https://boards.greenhouse.io/flexport/jobs/6795493?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/561dc074-7c02-4562-a2df-5ac406ce6a4d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 19 |
+| **[Robert Half](https://simplify.jobs/c/Robert-Half)** | Software Engineer I | San Ramon, CA | <a href="https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-256822-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/b0518de6-cf27-4979-9b3d-aaec252efca1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | SF | <a href="https://jobs.ashbyhq.com/Jerry/ebb57f00-5cc3-49e0-afe6-72ff9ed215ab/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/072036b3-30a5-43fb-b411-ae517a3075d0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
+| **[Jerry](https://simplify.jobs/c/Jerry)** | Software Engineer I | Toronto, ON, Canada | <a href="https://jobs.ashbyhq.com/Jerry/86a0ecd6-e494-4736-a12d-2e88001d46c5/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/c99d750f-fd8a-4a3b-902a-cc3afe26f850?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 21 |
+| **Flexport** | Software Engineer I | Bellevue, WA | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | Toronto, ON, Canada | 🔒 | Apr 19 |
 | **Jerry** | Software Engineer I | SF | 🔒 | Apr 19 |
 | **[Pinterest](https://simplify.jobs/c/Pinterest)** | Software Engineer I | Seattle, WA | <a href="https://www.pinterestcareers.com/job-form?gh_jid=6816337&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/836b6c19-97e2-48ec-b0eb-a351d8e837d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 18 |
 | **[Sev1Tech](https://simplify.jobs/c/Sev1Tech)** | Software Developer – Entry Level | Lawton, OK | <a href="https://careers-sev1tech.icims.com/jobs/8793/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/944e985f-b58f-4373-8d24-a453b692eb61?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 17 |
 | **GOAT Group** | Software Engineer I | Remote in USA | 🔒 | Apr 17 |
 | **RTX** | Software Engineer I | Cedar Rapids, IA | 🔒 | Apr 16 |
-| **[Cox](https://simplify.jobs/c/Cox)** | Software Engineer I - Backend | Carmel, IN | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/795587eb-f201-4d90-9310-1215625e2e56?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
+| **Cox** | Software Engineer I - Backend | Carmel, IN | 🔒 | Apr 16 |
 | **[Plexus](https://simplify.jobs/c/Plexus)** | Embedded Software Engineer I | Neenah, WI | <a href="https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0f7b9b50-89d2-4113-aa2b-381a6156069c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Apr 16 |
 | **Mastercard** | Software Engineer I - Sdet - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
 | **Mastercard** | Software Engineer I - Java | Vancouver, BC, Canada | 🔒 | Apr 16 |
@@ -147,7 +150,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Medtronic** | Software Engineer I - Neuro | Minneapolis, MN | 🔒 | Mar 24 |
 | **Applied Materials** | Data Scientist I New College Grad-Bachelor's | Santa Clara, CA | 🔒 | Mar 21 |
 | **Comcast** | Software Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 21 |
-| **[Booz Allen](https://simplify.jobs/c/Booz-Allen)** | Software Developer - Junior | Charleston, SC | <a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/d094593d-fe82-460d-9875-a4080cc87b7c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Mar 21 |
+| **Booz Allen** | Software Developer - Junior | Charleston, SC | 🔒 | Mar 21 |
 | **Mastercard** | Software Engineer I | Seattle, WA | 🔒 | Mar 21 |
 | **Adobe** | Software Development Engineer 1 | NYC | 🔒 | Mar 21 |
 | **Comcast** | Data Engineer 1 | Chicago, IL</br>Reston, VA | 🔒 | Mar 20 |
@@ -232,7 +235,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **AMERICAN SYSTEMS** | Software Engineer I | McLean, VA | 🔒 | Feb 28 |
 | **eBay** | Software Engineer 1 | NYC | 🔒 | Feb 28 |
 | **Cox** | Software Engineer I | Atlanta, GA | 🔒 | Feb 28 |
-| **[Ciena](https://simplify.jobs/c/Ciena)** | Wavelogic Software Developer – New Grad | Atlanta, GA | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/0c0f0d44-9cdd-477e-aa21-f4956dc2ebf0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Feb 27 |
+| **Ciena** | Wavelogic Software Developer – New Grad | Atlanta, GA | 🔒 | Feb 27 |
 | **Adobe** | Software Development Engineer 1 | Lehi, UT | 🔒 | Feb 27 |
 | **KBR** | Junior Software Developer | Springfield, VA | 🔒 | Feb 26 |
 | **Whoop** | Data Engineer I | Boston, MA | 🔒 | Feb 26 |
@@ -283,7 +286,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **TSC** | Software Engineer I | Bloomington, IN | 🔒 | Feb 01 |
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
 | **Baxter International** | Software Engineer I | Raleigh, NC | 🔒 | Jan 31 |
-| **[Echostar](https://simplify.jobs/c/Echostar)** | Entry Level Software Engineer | San Diego, CA | <a href="https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Entry-Level-Software-Engineer_R0004668?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/52e57407-0ec5-49a9-be77-fedea20a2c03?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 31 |
+| **Echostar** | Entry Level Software Engineer | San Diego, CA | 🔒 | Jan 31 |
 | **esri** | Software Development Engineer I | Vienna, VA | 🔒 | Jan 31 |
 | **esri** | Software Development Engineer I | St. Louis, MO | 🔒 | Jan 31 |
 | **Harris Computer** | Software Engineer I | <details><summary>**5 locations**</summary>Texas</br>Georgia</br>Tennessee</br>Virginia</br>Oklahoma</details> | 🔒 | Jan 31 |
