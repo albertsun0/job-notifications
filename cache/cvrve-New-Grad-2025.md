@@ -44,6 +44,36 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Tesla** | Software Engineer, Machine Learning Integration, Optimus | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/245229?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Quora** | New Grad: Machine Learning Engineer | Remote | <a href="https://jobs.ashbyhq.com/quora/e8acc816-a9af-445d-8135-47599ac9be0f?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Qualcomm** | Software Engineer - Hypervisor | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446706670731?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | Seattle, WA | <a href="https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer 🇺🇸 | Washington, DC | <a href="https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer 🇺🇸 | Palo Alto, CA | <a href="https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer 🇺🇸 | New York, NY | <a href="https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | Seattle, WA | <a href="https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad: Software Engineer | Denver, CO | <a href="https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | Washington, D.C. | <a href="https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Palantir** | New Grad 2026: Forward Deployed Software Engineer | New York, NY | <a href="https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Optiver** | New Grad 2026: Software Engineer | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7986421002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Optiver** | New Grad 2026: Software Engineer | Chicago, IL | <a href="https://optiver.com/working-at-optiver/career-opportunities/7986419002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Optiver** | Graduate Quantitative Researcher | Austin, TX | <a href="https://optiver.com/working-at-optiver/career-opportunities/7967601002?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **NVIDIA** | New Grad 2025: ASIC Design Engineer | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Design-Engineer---New-College-Grad-2025_JR1994930?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **IMC** | Quantitative Researcher | Chicago, IL | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4580753101?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Duolingo** | AI Product Engineer, Math 🛂 | Pittsburgh, PA | <a href="https://careers.duolingo.com/jobs/8062269002?gh_jid=8062269002&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Citadel Securities** | New Grad: Quantitative Trader | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Citadel Securities** | New Grad: Quantitative Research Analyst | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Citadel Securities** | Software Engineer | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Bits to Atoms** | Software Engineer 🇺🇸 | Berkeley, CA | <a href="https://jobs.bitstoatoms.com/bits-to-atoms/953ef025-ec88-450d-8f8f-2cb38cc8e839?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Belvedere Trading** | Machine Learning and Algorithm Developer | Boulder, CO | <a href="https://jobs.lever.co/belvederetrading/5494bf64-56bf-4a5b-b339-03e8af470ffc?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Balyasny Asset Management** | Systematic Equities Quantitative Researcher / Developer | New York, NY | <a href="https://bambusdev.my.site.com/s/details?jobReq=Systematic-Equities-Quantitative-Researcher---Developer_REQ6955&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Apple** | Software Engineer, IS&T | Sunnyvale, CA | <a href="https://jobs.apple.com/en-us/details/200611794/software-engineer-is-t-early-career?team=SFTWR&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Apple** | Software Engineer, IS&T | Austin, TX | <a href="https://jobs.apple.com/en-us/details/200611793/software-engineer-is-t-early-career?team=SFTWR&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Amazon** | Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs | Cupertino, CA | <a href="https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Twitch** | Software Engineer | San Francisco, CA</br>Seattle, WA</br>New York, NY | <a href="https://www.amazon.jobs/en/jobs/3020911/software-engineer?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Twitch** | Software Engineer - Creator | <details><summary>**4 locations**</summary>Seattle, WA</br>New York, NY</br>Irvine, CA</br>San Francisco, CA</details> | <a href="https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
 | **Tesla** | New Grad 2025: Software Engineer | Hawthorne, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=8026923002&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jun 30 |
@@ -160,7 +190,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Snap Inc** | Embedded Software Engineer | San Diego, CA</br>Los Angeles, CA | <a href="https://wd1.myworkdaysite.com/en-US/recruiting/snapchat/snap/job/San-Diego-California/Software-Engineer--Embedded--Level-3_R0040311?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **SIG** | New Grad: Software Developer | Bala Cynwyd, PA | <a href="https://careers.sig.com/job/SUSQA004Y9261?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **NVIDIA** | New Grad 2025: VLSI Physical Design Engineer | Westford, MA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/VLSI-Physical-Design-Engineer---New-College-Grad-2025_JR1997079?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
-| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=4420849005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
 | **AppLovin** | New Grad: Backend Infrastructure Engineer | Palo Alto, CA | <a href="https://boards.greenhouse.io/embed/job_app?token=4447610006&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 26 |
 | **Thor Solutions** | Software Engineer I | Philadelphia, PA | <a href="https://thorsolutionsllc.applytojob.com/apply/C8LIaGu8So/Software-Engineer-I?referrer=20250414192432YMUDC3C4I6XZL15U&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
 | **Peraton** | Junior Software Engineer 🇺🇸 | Sterling, VA | <a href="https://www.careers.peraton.com/jobs/junior-software-engineer-sterling-virginia-156109-jobs--information-technology--?iis=Job%2BBoard&iisn=Vansh&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
@@ -515,7 +544,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Tiktok** | New Grad 2025: Frontend Software Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7397092118239545638/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Tiktok** | New Grad: Backend Software Engineer | Seattle, WA | <a href="https://careers.tiktok.com/position/7397188298157164838/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Ramp** | New Grad 2025: Frontend Software Engineer | New York, NY | <a href="https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
-| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4420849005?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | **Waabi** | New Grad: Software Engineer | Remote</br>US | <a href="https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad Software Engineer 2025 | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/227124?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | **Tesla** | New Grad: Software Engineer | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/226925?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -577,7 +605,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **ByteDance** | New Grad 2025: Backend Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396812738201061669/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **ByteDance** | New Grad 2025: Mobile Software Engineer | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7396945647146076453/detail?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Applied Intuition** | New Grad: Software Engineer - PHD | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4045225005?gh_jid=4045225005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
-| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005&utm_source=cvrve&ref=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 25 |
 | **Jane Street** | New Grad 2025: Linux Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7546051002/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad 2025: FPGA Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7546237002/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
 | **Jane Street** | New Grad: Software Engineer | New York, NY | <a href="https://www.janestreet.com/join-jane-street/position/7528962002/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 23 |
@@ -620,6 +647,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Citadel** | Software Engineer | Chicago,IL</br>Miami, FL</br>New York, NY | <a href="https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 09 |
 | **JPMorgan Chase** | 2025 Software Engineer Program 🛂 | <details><summary>**12 locations**</summary>Atlanta, GA</br>Austin, TX</br>Chicago, IL</br>Columbus, OH</br>Houston, TX</br>Jersey City, NJ</br>New York, NY</br>Palo Alto, CA</br>Plano, TX</br>Seattle, WA</br>Tampa, FL</br>Wilmington, DE</details> | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527372?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
 | **Citadel Securities** | Software Engineer – 2025 University Graduate (US) | Miami, FL</br>New York, NY | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-2025-university-graduate-us-2/?utm_source=cvrve"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
+| **Galatea Associates** | Software Engineer Associate 🛂 | <details><summary>**4 locations**</summary>Somerville, MA</br>St. Petersburg, FL</br>Durham, NC</br>London, UK</details> | 🔒 | Jul 05 |
 | **Lucid** | DevOps and Build Infrastructure Engineer | Newark, CA | 🔒 | Jun 17 |
 | **Apple** | Software Engineer - Full Stack | San Diego, CA | 🔒 | Jun 10 |
 | **Tenstorrent** | Software Developer, Metal Runtime | Santa Clara, CA | 🔒 | Jun 07 |
@@ -655,6 +683,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Leidos** | Entry Level Software Developer | Fort Sill, OK</br>Lawton, OK | 🔒 | May 03 |
 | **Disney** | Associate Software Engineer | Seattle, WA</br>Burbank, CA</br>Orlando, FL | 🔒 | May 03 |
 | **Boeing** | Entry Level Embedded Software Engineer | Berkeley, MO | 🔒 | May 03 |
+| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | 🔒 | May 03 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | May 03 |
 | **1Password** | Junior Developer | Remote</br>US | 🔒 | May 03 |
 | **Medela** | Associate Software Development Engineer | McHenry, IL | 🔒 | Apr 14 |
@@ -1007,6 +1036,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **PayPal** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 13 |
 | **Infor** | Associate Software Engineer | Dallas, TX</br>St. Paul, MN</br>Alpharetta, GA | 🔒 | Sep 13 |
 | **Canonical** | Software Engineer | Remote | 🔒 | Sep 13 |
+| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | 🔒 | Sep 13 |
 | **Adobe** | New Grad 2025: Software Development Engineer | Seattle, WA | 🔒 | Sep 13 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
 | **Zoom** | New Grad: Software Engineer | San Jose, CA | 🔒 | Sep 12 |
@@ -1111,6 +1141,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Capital One** | New Grad: Associate Data Analyst | Toronto, ON | 🔒 | Aug 25 |
 | **Boeing** | New Grad: Software Engineer 🛂 | Washington DC | 🔒 | Aug 25 |
 | **Bank of America** | New Grad: Software Engineer I | New York | 🔒 | Aug 25 |
+| **Applied Intuition** | New Grad: Software Engineer | Mountain View, CA | 🔒 | Aug 25 |
 | **Applied Intuition** | New Grad: Software Engineer - Autonomous Vehicles - PHD | San Francisco, CA | 🔒 | Aug 25 |
 | **Amex GBT** | New Grad: Software Engineer | Chicago, Illinois | 🔒 | Aug 25 |
 | **Adobe** | New Grad 2025: Software Engineer | New York, NY | 🔒 | Aug 25 |
