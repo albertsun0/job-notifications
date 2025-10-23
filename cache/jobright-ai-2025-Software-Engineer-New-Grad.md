@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Octus](https://octus.com)** | **[Frontend Engineer](https://jobright.ai/jobs/info/68d6c4add3fe025a3015be5e?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 18 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 16 |
@@ -158,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Social Programmer Sports Portfolio (Temporary)](https://jobright.ai/jobs/info/68cbef6116d00d2beeb170bb?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | Remote | Oct 09 |
 | **[Adobe](http://www.adobe.com)** | **[Software Development Engineer](https://jobright.ai/jobs/info/68ccd202b274cd205ab4fa4f?utm_campaign=Software%20Engineering&utm_source=1103)** | Lehi, UT | On Site | Oct 09 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cd599f1ad6b16f02898332?utm_campaign=Software%20Engineering&utm_source=1103)** | Kirkland, WA | On Site | Oct 08 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26548.1](https://jobright.ai/jobs/info/68cf80bbdbd9fb154ede85b9?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 08 |
-| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ce6754fb49c96ca6ea0170?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
-| **[Travelers](https://www.travelers.com)** | **[Software Engineer I (Salesforce)](https://jobright.ai/jobs/info/68cce27177add66568abb6b7?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
-| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cf7380846f0b04af68234c?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 08 |
-| **[Shipt](https://www.shipt.com)** | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68cf0897846f0b04af67edd9?utm_campaign=Software%20Engineering&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
