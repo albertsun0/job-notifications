@@ -20,9 +20,12 @@ for source in sources:
         readmeEndpoint = f"https://api.github.com/repos/{owner}/{repo}/readme"
 
         response = requests.get(readmeEndpoint)
+        response.raise_for_status()
         url = json.loads(response.text)["download_url"]
 
-        readme = requests.get(url).text
+        readme = requests.get(url)
+        readme.raise_for_status()
+        readme_text = readme.text
 
         if os.path.isfile(cacheURL):
             with open(cacheURL, "r") as f:
@@ -30,14 +33,10 @@ for source in sources:
 
             print("loaded from cache")
 
-            diff = []
+            readme_lines = readme_text.split("\n")
+            oldReadme_lines = set(oldReadme.split("\n"))
 
-            readme_split = readme.split("\n")
-            oldReadme_split = set(oldReadme.split("\n"))
-
-            for line in readme_split:
-                if line not in oldReadme_split:
-                    diff.append(line)
+            diff = [line.strip() for line in readme_lines if line.strip() not in oldReadme_lines and line.strip().startswith("|")]
 
             if diff:
                 result += "## " + source + "\n\n"
@@ -46,11 +45,12 @@ for source in sources:
                 result += "\n\n"
         else:
             print("no cache: creating cache at", cacheURL)
+
         with open(cacheURL, "w") as f:
-            f.write(readme)
+            f.write(readme_text)
 
     except Exception as e:
-        print("ERROR SCRAPING", source, e)
+        print("ERROR SCRAPING", source, str(e))
 
 if result == "":
     result = "No new jobs for now."
