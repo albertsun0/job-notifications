@@ -43,6 +43,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | --- | --- | --- | :---: | :---: |
 | **Scout AI** | New Grad 2027: AI Engineer, AI/ML and Agent Harnessing | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Scout AI** | New Grad 2027: Software Engineer, Core Systems | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| **M&T Bank** | New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development) | Buffalo, NY | <a href="https://go.vansh.nyc/1Lm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
+| **M&T Bank** | New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms) | Buffalo, NY | <a href="https://go.vansh.nyc/1Ln?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **XPENG Motors** | New Grad: Software Engineer - Computing Platform | Santa Clara, CA | <a href="https://go.vansh.nyc/1Jt?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Veeva Systems** | New Grad 2027: Associate Software Engineer 🛂 | Raleigh, NC | <a href="https://go.vansh.nyc/1IJ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Two Sigma** | Quantitative Trader | New York, NY | <a href="https://go.vansh.nyc/1JI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
@@ -51,13 +53,13 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Nexvel** | Vibe Coder - Marketing Tools | Elkins Park, PA | <a href="https://go.vansh.nyc/1JV?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Manufacturers and Traders Trust** | New Grad 2027: Technology Development Program - Software Engineering, Identity & Risk Technology | Buffalo, NY | <a href="https://go.vansh.nyc/1Ks?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **ManTech** | Junior Data Analyst 🇺🇸 | Ashburn, VA | <a href="https://go.vansh.nyc/1JG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
+| **LSEG** | New Grad 2027: AI Product & Business Associate | New York, NY | <a href="https://go.vansh.nyc/1Lo?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Johns Hopkins Applied Physics Laboratory** | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | <a href="https://go.vansh.nyc/1IZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Eight Sleep** | New Grad: Engineering | New York, NY | <a href="https://go.vansh.nyc/1Ji?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Deloitte** | Software Engineer | Nashville, TN | <a href="https://go.vansh.nyc/1IT?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Ayo Semiconductor** | Machine Learning Researcher (Master's) | Boston, MA | <a href="https://go.vansh.nyc/1JW?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Ayo Semiconductor** | Machine Learning Engineer (Master's) | Boston, MA | <a href="https://go.vansh.nyc/1JX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Applied Materials** | Software Engineer II (Master's) | Chandler, AZ | <a href="https://go.vansh.nyc/1J6?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
-| **Ameren** | Data Analyst, Business Analytics | St. Louis, MO | <a href="https://go.vansh.nyc/1Ka?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | **Shield AI** | New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack 🇺🇸 | Arlington, VA | <a href="https://go.vansh.nyc/1HX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **SambaNova Systems** | New Grad: AI Performance Engineer | Austin, TX</br>San Jose, CA | <a href="https://go.vansh.nyc/1HY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **SAIC** | Computer Programmer Level 1 | Oklahoma City, OK | <a href="https://go.vansh.nyc/1IG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -621,7 +623,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Recidiviz** | Data Analyst | Remote | <a href="https://go.vansh.nyc/Ik?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Oracle** | New Grad 2027: Software Engineer, Oracle Cloud Infrastructure | Nashville, TN | <a href="https://go.vansh.nyc/Hy?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **iManage** | Applied AI Engineer | Chicago, IL | <a href="https://go.vansh.nyc/Hz?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| **Darebay** | Junior React Native / Expo Developer, AI-first | Remote | <a href="https://go.vansh.nyc/Im?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **Atlassian** | New Grad 2027: Data Scientist (Master's) | Seattle, WA | <a href="https://go.vansh.nyc/1tY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | **SpaceX** | New Grad 2027: Engineer, Software (Starfall) | Hawthorne, CA | <a href="https://go.vansh.nyc/Ht?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | **Infinitive** | Technology Consultant | McLean, VA | <a href="https://go.vansh.nyc/1tX?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
@@ -857,8 +858,10 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Softheon** | Software Engineer I - Membership | Remote</br>United States | <a href="https://go.vansh.nyc/iG?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 12 |
 | **Tesla** | Software Engineer, Traction Control & Stability | Palo Alto, CA | <a href="https://go.vansh.nyc/ig?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 05 |
 | **Qualcomm** | Embedded DSP Software Engineer | San Diego, CA | <a href="https://go.vansh.nyc/i2?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Mar 31 |
+| **Адамант Про** | Junior+ Developer | Remote | 🔒 | Nov 27 |
 | **Genpact** | Developer, Enterprise Applications | Phoenix, AZ | 🔒 | Nov 25 |
 | **CodeRabbit** | New Grad: Software Engineer | San Francisco, CA | 🔒 | Nov 25 |
+| **Ameren** | Data Analyst, Business Analytics | St. Louis, MO | 🔒 | Nov 25 |
 | **Keysight Technologies** | Machine Learning Engineer - RL & Optimization (Master's) | Santa Rosa, CA | 🔒 | Nov 24 |
 | **Boeing** | ASIC/FPGA Design Verification Engineer 🇺🇸 | El Segundo, CA | 🔒 | Nov 24 |
 | **Appodeal** | Junior Software Engineer | Parkland, FL | 🔒 | Nov 24 |
@@ -1189,6 +1192,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **CoStar Group** | New Grad 2027: Associate Embedded Software Engineer | Sunnyvale, CA | 🔒 | Oct 02 |
 | **Intel** | Software Engineer, Datacenter (Master's) 🇺🇸 | Santa Clara, CA | 🔒 | Oct 01 |
 | **CoStar Group** | New Grad 2027: Associate Software Engineer | Sunnyvale, CA | 🔒 | Oct 01 |
+| **Darebay** | Junior React Native / Expo Developer, AI-first | Remote | 🔒 | Sep 30 |
 | **OneImaging** | New Grad 2027: Full Stack Associate Software Engineer | Miami, FL | 🔒 | Sep 29 |
 | **OneImaging** | New Grad 2027: Associate Data Engineer | Miami, FL | 🔒 | Sep 29 |
 | **NVIDIA** | Applied Machine Learning Engineer, AI for VLSI Design (Master's) | Santa Clara, CA | 🔒 | Sep 29 |
