@@ -41,6 +41,8 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bank of Montreal** | New Grad: Software Developer | Berkeley Heights, NJ | <a href="https://go.vansh.nyc/1LY?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
+| **CHEP** | Software Developer - Applications | Santa Clara, CA | <a href="https://go.vansh.nyc/1LZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | **Scout AI** | New Grad 2027: AI Engineer, AI/ML and Agent Harnessing | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K3?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **Scout AI** | New Grad 2027: Software Engineer, Core Systems | Sunnyvale, CA | <a href="https://go.vansh.nyc/1K4?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | **M&T Bank** | New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development) | Buffalo, NY | <a href="https://go.vansh.nyc/1Lm?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
@@ -70,6 +72,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **PayPal** | New Grad 2027: Software Engineer | San Jose, CA</br>Chicago, IL</br>Austin, TX | <a href="https://go.vansh.nyc/1Io?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Iridium Communications** | Software Test Engineer I | Chandler, AZ | <a href="https://go.vansh.nyc/1HZ?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Consolidated Edison** | Associate, Research & Development | New York, NY | <a href="https://go.vansh.nyc/1IB?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
+| **Applied Materials** | AI Engineer/Data Scientist | Santa Clara, CA | <a href="https://go.vansh.nyc/1Lx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Analog Devices** | Associate Engineer, Quality Engineering | Wilmington, MA | <a href="https://go.vansh.nyc/1Iw?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Amazon** | New Grad 2027: Front-End Engineer | Seattle, WA | <a href="https://go.vansh.nyc/1Iv?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | **Sorenson** | Software Engineer | Salt Lake City, UT | <a href="https://go.vansh.nyc/1Hx?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
@@ -608,7 +611,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | **Rubrik** | Software Engineer - Product Platform Security | Palo Alto, CA | <a href="https://go.vansh.nyc/1uj?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Qualcomm** | Memory and Cache Controller Design Engineer, ASIC Engineering (Master's) | San Diego, CA | <a href="https://go.vansh.nyc/HN?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Hewlett Packard Enterprise** | Systems/Software Engineer I | Houston, TX | <a href="https://go.vansh.nyc/Lg?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
-| **Cincinnati Children’s** | Developer I, Psychiatry | Burnet, TX | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
+| **Cincinnati Children’s** | Developer I, Psychiatry | Cincinnati, OH | <a href="https://go.vansh.nyc/Ic?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 07 |
 | **Mach Industries** | New Grad 2027: Software Engineer - Software 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HH?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Mach Industries** | Software Engineer 🛂 | Huntington Beach, CA | <a href="https://go.vansh.nyc/HI?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
 | **Astera Labs** | New Grad: Data Analyst | San Jose, CA | <a href="https://go.vansh.nyc/1un?s=A"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 06 |
